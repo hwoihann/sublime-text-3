@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Theme - Centurion/Galea.tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"theme": "Material-Theme.sublime-theme",
+	"word_wrap": true
+}

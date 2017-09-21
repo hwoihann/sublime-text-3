@@ -1,0 +1,17 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-ArcDark.tmTheme",
+	//"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	//"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+	"word_wrap": true,
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	
+	"extensions":
+	[
+		"tip"
+	]
+}

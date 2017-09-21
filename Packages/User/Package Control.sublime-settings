@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Clickable URLs",
+		"Emoji",
+		"FileManager",
+		"Markdown Extended",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"Markdown Slideshow",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownTOC",
+		"Markmon real-time markdown preview",
+		"Material Monokai",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PlainTasks",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"Theme - Centurion",
+		"Theme - SoDaReloaded",
+		"Theme - Sodarized",
+		"Tomorrow Color Schemes",
+		"Tomorrow Night Italics Color Scheme",
+		"WordCount"
+	]
+}
