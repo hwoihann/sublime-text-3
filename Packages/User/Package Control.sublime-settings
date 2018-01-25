@@ -6,29 +6,18 @@
 	"installed_packages":
 	[
 		"1337 Color Scheme",
-		"Clickable URLs",
-		"Emoji",
-		"FileManager",
+		"A File Icon",
+		"ColorPicker",
 		"Markdown Extended",
-		"Markdown HTML Preview",
-		"Markdown Preview",
-		"Markdown Slideshow",
 		"MarkdownEditing",
-		"MarkdownHighlighting",
-		"MarkdownTOC",
-		"Markmon real-time markdown preview",
-		"Material Monokai",
+		"Material Color Scheme",
 		"Material Theme",
-		"Material Theme - Appbar",
 		"Package Control",
 		"PlainTasks",
-		"Search Stack Overflow",
+		"R-Box",
 		"SideBarEnhancements",
-		"Theme - Centurion",
-		"Theme - SoDaReloaded",
-		"Theme - Sodarized",
-		"Tomorrow Color Schemes",
-		"Tomorrow Night Italics Color Scheme",
-		"WordCount"
-	]
+		"SublimeGit",
+		"SublimeREPL"
+	],
+	"material_theme_compact_sidebar": true
 }

@@ -3,11 +3,11 @@
 	[
 	],
 	"last_version": 3143,
-	"last_window_id": 21,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1026.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -15,384 +15,12 @@
 				"selected_items":
 				[
 					[
-						"W",
-						"wtb"
+						"sample",
+						"sampleDistMatrix"
 					],
 					[
-						"scale_",
-						"scale_color_brewer"
-					],
-					[
-						"bin",
-						"binRegion"
-					],
-					[
-						"p_fpk",
-						"p_fpkm_sc"
-					],
-					[
-						"deg",
-						"deg_df"
-					],
-					[
-						"distal_",
-						"0719_distal_100k"
-					],
-					[
-						"SC",
-						"SCNTctrl"
-					],
-					[
-						"IVF_",
-						"IVF_5k"
-					],
-					[
-						"dis",
-						"Distall"
-					],
-					[
-						"S",
-						"SCNTctrl"
-					],
-					[
-						"Va",
-						"Var2"
-					],
-					[
-						"SCNT",
-						"SCNTctrl"
-					],
-					[
-						"SCN",
-						"SCNTkdm4d"
-					],
-					[
-						"Sctrl_I_d",
-						"Sctrl_I_delta"
-					],
-					[
-						"shuffled",
-						"shuffledGene"
-					],
-					[
-						"enhancer",
-						"enhancerMeth"
-					],
-					[
-						"p",
-						"p_mdelta"
-					],
-					[
-						"log2",
-						"log2fpkm"
-					],
-					[
-						"del",
-						"deltaMethy"
-					],
-					[
-						"ctrl",
-						"ctrlSp_hyper"
-					],
-					[
-						"WGB",
-						"WGBS_new"
-					],
-					[
-						"row",
-						"rownames"
-					],
-					[
-						"IVF",
-						"IVF_fpkm"
-					],
-					[
-						"all_",
-						"all_dmg_dmr"
-					],
-					[
-						"met",
-						"methylation"
-					],
-					[
-						"shuffle",
-						"shuffledRegion"
-					],
-					[
-						"TA",
-						"tables"
-					],
-					[
-						"a",
-						"allProject"
-					],
-					[
-						"table",
-						"tables"
-					],
-					[
-						"in",
-						"inter_down"
-					],
-					[
-						"inter",
-						"inter_up"
-					],
-					[
-						"set",
-						"setkeyv"
-					],
-					[
-						"merg",
-						"merge2c_all_log2fpkm"
-					],
-					[
-						"merge",
-						"merge2c_all"
-					],
-					[
-						"Skd_",
-						"Skd_I_down"
-					],
-					[
-						"scnt",
-						"scnt2c"
-					],
-					[
-						"WT",
-						"WT_CC"
-					],
-					[
-						"cell",
-						"celltype"
-					],
-					[
-						"DMR",
-						"dmrOrigin"
-					],
-					[
-						"data",
-						"data_destrand_5x"
-					],
-					[
-						"ivf",
-						"IVF"
-					],
-					[
-						"impri",
-						"imprint_all"
-					],
-					[
-						"C",
-						"Ctype"
-					],
-					[
-						"100kb",
-						"100kb_centered"
-					],
-					[
-						"HEAT",
-						"heat_table"
-					],
-					[
-						"STE",
-						"steelblue"
-					],
-					[
-						"fac",
-						"facet_wrap"
-					],
-					[
-						"bedgra",
-						"bedgraph"
-					],
-					[
-						"SCNTk",
-						"scntKdm4d"
-					],
-					[
-						"p_",
-						"p_unscaled"
-					],
-					[
-						"gg",
-						"gg_rep_cnt"
-					],
-					[
-						"rep_a",
-						"rep_all_rpm"
-					],
-					[
-						"re",
-						"repeats"
-					],
-					[
-						"METHY",
-						"methy"
-					],
-					[
-						"100K",
-						"100kb_centered_"
-					],
-					[
-						"centered_",
-						"centered_100k"
-					],
-					[
-						"RNA",
-						"RNA_reads"
-					],
-					[
-						"gtf",
-						"gtf_format"
-					],
-					[
-						"b",
-						"bedgraph"
-					],
-					[
-						"dmr",
-						"dmrOrigin"
-					],
-					[
-						"HYPERdmr",
-						"hyperDMR"
-					],
-					[
-						"kd_",
-						"kd_lowFPKM"
-					],
-					[
-						"S_",
-						"SI_up"
-					],
-					[
-						"Skd",
-						"Skd_I_fc"
-					],
-					[
-						"DM",
-						"dmType"
-					],
-					[
-						"hmr_",
-						"hmr_expanded_diffp1_0603"
-					],
-					[
-						"scntC",
-						"scntCtrl-high"
-					],
-					[
-						"whi",
-						"white"
-					],
-					[
-						"IV",
-						"IVF"
-					],
-					[
-						"ct",
-						"ctrl_kd_diff"
-					],
-					[
-						"ggplt",
-						"ggplot2"
-					],
-					[
-						"hmr",
-						"hmr_expanded_diffp1_0603"
-					],
-					[
-						"s",
-						"symbol"
-					],
-					[
-						"hmr_e",
-						"hmr_expanded_diffp1_0604"
-					],
-					[
-						"sc",
-						"scales"
-					],
-					[
-						"librar",
-						"libarary"
-					],
-					[
-						"meth_hyperDMR_diff",
-						"meth_hyperDMR_diffp1"
-					],
-					[
-						"total",
-						"kd_totalC"
-					],
-					[
-						"totalC",
-						"totalCpG"
-					],
-					[
-						"SCNT_",
-						"SCNT_totalC"
-					],
-					[
-						"IVF_tot",
-						"IVF_totalCpG"
-					],
-					[
-						"tota",
-						"totalCpG"
-					],
-					[
-						"tra",
-						"trackTool"
-					],
-					[
-						"CH",
-						"ChIP_MEF"
-					],
-					[
-						"5k_flanking_coo",
-						"5k_flanking_commonDMR_SCNTctrl"
-					],
-					[
-						"H3",
-						"H3K"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"cu",
-						"curLoc"
-					],
-					[
-						"diff",
-						"diffDMR"
-					],
-					[
-						"signal",
-						"signalOnDMR"
-					],
-					[
-						"flank",
-						"flankLength"
-					],
-					[
-						"ggpl",
-						"ggplot2"
-					],
-					[
-						"CpG_SCNT",
-						"CpG_SCNT_kdm4d"
-					],
-					[
-						"par",
-						"partial"
-					],
-					[
-						"METH",
-						"methpipe"
+						"I",
+						"installation"
 					]
 				]
 			},
@@ -402,43 +30,41 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 182.0,
-				"last_filter": "set sy she",
+				"height": 398.0,
+				"last_filter": "set sy r e",
 				"selected_items":
 				[
 					[
-						"set sy she",
-						"Set Syntax: Shell Script (Bash)"
+						"set sy r e",
+						"Set Syntax: R Extended"
 					],
 					[
 						"PKI",
 						"Package Control: Install Package"
 					],
 					[
-						"set sy R ",
-						"Set Syntax: R"
+						"REPL: r",
+						"SublimeREPL: R"
 					],
 					[
 						"pki",
 						"Package Control: Install Package"
 					],
 					[
-						"markdown",
-						"Markdown HTML Preview"
-					],
-					[
-						"Package Control: ",
+						"remove",
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 382.0
+				"width": 571.0
 			},
 			"console":
 			{
-				"height": 146.0,
+				"height": 126.0,
 				"history":
 				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -452,145 +78,31 @@
 			},
 			"file_history":
 			[
-				"/home/whh/nethome/whh/allProject/Project_scnt/ATAC_xie/readMe.sh",
-				"/home/whh/www/2ndLearn/_config.yml",
-				"/home/whh/www/compass/_config.yml",
-				"/home/whh/www/safarnama/_config.yml",
-				"/home/whh/www/harmony/_config.yml",
-				"/home/whh/www/emerald-master/_config.yml",
-				"/home/whh/www/emerald-master/index.html",
-				"/home/whh/www/safarnama/index.html",
-				"/home/whh/www/mojombo/README.md",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0822-compareGO_dmg3ktss_fpkm3.R",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0821-deg_dmg3ktss3k_fpkm3_fc3.R",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0902-hypers_dmg3ktss_fpkm3.R",
-				"/media/whh/document/freshBlood/CS/git/jekyll/note1.txt",
-				"/media/whh/document/freshBlood/CS/shortcut/shell常用命令.md",
-				"/media/whh/document/freshBlood/CS/git/note1-installations.txt",
-				"/media/whh/document/freshBlood/CS/R/lidongfeng.md",
-				"/media/whh/document/freshBlood/CS/git/ruby/ruby-gainian.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/featDMR.R",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/readMe.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/readMe_50bp.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/rpmGetter.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0912-Lola_DMR.R",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/readMe2.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/1_fastqc/H3K9me3_Ab8898_rep1_GSE18371\r_fastqc/summary.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/0_acc/accGSE18371.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/backup/0808-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/DHS_zhang/readMe.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/backup/0802-peakAnno.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/his_gao/readMe.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0810-signalOnDMR-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/hypers/0820-hisModOnDMR_3type_gaolab-keepNA-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/hypers/0820-ATACOnDMR_3type_xielab-deepTools.sh",
-				"/media/whh/document/freshBlood/CS/easyComan/takin/suishou-week33.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/quality.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0815-MEFsignalOnDMR_sameDMR-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/hypers/0820-DHSOnDMR_3type_zhanglab-keepNA-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/tables/others/xie_stage_hyperDMGs_GSE66582.R",
-				"/home/whh/.cache/.fr-zw5XXx/GSE76642_series_matrix.txt",
-				"/media/whh/document/freshBlood/CS/easyComan/takin/suishou-week29.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/readMe2.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0814-tetOnDMR_3hyper-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0810-pgcOnDMR-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0814-pgcOnDMR_3hyper-deepTools.sh",
-				"/media/whh/document/research/epiGroup/papers/reviews/websites.txt",
-				"/media/whh/document/research/epiGroup/tasks.md",
-				"/media/whh/document/data/figures/background/sceneries.txt",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0814-pgcOnDMR_3hyper-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0815-MEFsignalOnDMR_sameDMR-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0814-tetOnDMR_3hyper-deepTools.sh",
-				"/home/whh/Downloads/装机/ubuntu.sh",
-				"/home/whh/Downloads/IGB_unix_current.sh",
-				"/media/whh/document/research/epiGroup/guideline.todo",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/temp.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/0807-DMR_hisMod_PGC_rpkm.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0811-pgcOnDMR-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/0808-DMR_signal_new.sh",
-				"/home/whh/remote/allProject/Project_scnt/ChIP_MEF/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig5.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe2.sh",
-				"/home/whh/remote/allProject/Project_scnt/tables/readme.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/dmg_test_TEICM_FPKM1-3ktss_0719.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/methy_box.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/0_fpkmOrg.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe_log.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
+				"/media/whh/document1/backup/装机ISO/ubuntu预装/installScripts_R.sh",
 				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/Checkbias_0711-fig4_2rep_fpkm5filteDMG.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/checkbias-fcbin_fpkm.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig4_2rep.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/2repRNAseq_fpkm5_fc3.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/2repRNAseq_fpkm3_fc5_0719_3ktss.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/2repRNAseq_fpkm5.R",
-				"/media/whh/document/research/project_scnt/wiki/figures/readme.txt",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/superheat_0720.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/deg_dmg_heat.sh",
-				"/media/whh/document/research/notebook/easyComan/takin/suishou-week29.txt",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/DMR_constitution_170722.sh",
-				"/media/whh/document/dailyTasks/plans/Week29.todo",
-				"/media/whh/document/research/project_scnt/dirUsage.md",
-				"/media/whh/document/research/project_scnt/papers/readMe.md",
-				"/media/whh/document/research/project_scnt/papers/background/readMe.md",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/deg_heat_0720.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/cor_hclust_test.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/enhancer_SctrlhyperDMR-0717.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/supp.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/enhancer_allhyperDMR-0718.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq/backup/tss3k_deg_dmg.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/enhancer_allhyperDMR-0718.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/ESCfeats_all_170718.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/ESCfeats_all_170718.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/featDMR.R",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/testSCNTkd_hyper.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/shuffleDMR_0612.R",
-				"/home/whh/remote/allProject/Project_scnt/Gaolab_RNAseq/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig4.R",
-				"/home/whh/remote/allProject/Project_scnt/Gaolab_RNAseq/backup/dmg_test_TE_0712.sh",
-				"/home/whh/remote/allProject/Project_scnt/Gaolab_RNAseq/backup/dmg_test_0712.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/2repRNAseq_fpkm5_2ktss1k_0718.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/rrbs_2c_trend_DMR_0719.sh",
-				"/home/whh/remote/allProject/Project_scnt/RRBS_gaosr/backup/readMe_0215.sh",
-				"/home/whh/remote/allProject/Project_scnt/ChIP_MEF/readMe2.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/deg_dmg_goBar_test.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/methy_all.sh",
-				"/home/whh/remote/allProject/Project_scnt/2016May/new/readme.md",
-				"/home/whh/remote/allProject/Project_scnt/2016May/new/code.md",
-				"/home/whh/remote/allProject/Project_scnt/2016May/result_1_parent_origin/tileGetter",
-				"/home/whh/remote/allProject/Project_scnt/2016May/temp/readme.md",
-				"/home/whh/remote/allProject/Project_scnt/2016May/result_1_parent_origin/code.md",
-				"/home/whh/nethome/Shared/ChIPseq_bed_mm9/PeakList/CGI_mm9_ucsc.bed.All",
-				"/home/whh/remote/allProject/Project_scnt/2016May/result_1_parent_origin/readme.md",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/2repRNAseq_fpkm5_fc5.R",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/checkbias-fcbin_fpkm.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/enhancer_SctrlhyperDMR-0717.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/enhancer_allhyperDMR-0717.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/0714-summary/2repRNAseq_stats.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/2repRNAseq_fpkm1_0718.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/fig4_2rep.R",
-				"/home/whh/remote/allProject/scripts/vennDiagram.R",
-				"/home/whh/remote/allProject/scripts/heatGObar.r",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/Checkbias_0712-fig4_2rep_fpkm5_fc1_filteDMG.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/2repRNAseq_fpkm1.R",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/enhancer_allDMR_0713.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/figures/heats/test.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/figures/readMe_50bp_2rep-week28.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/enhancer_0714.sh"
+				"/media/whh/document1/freshBlood/CS/shortcut/shell-ssh.md",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/colors.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/cor_heat-samples.R",
+				"/home/whh/remote/allProject/hmces/record/shared files.log",
+				"/home/whh/remote/allProject/hmces/scripts/peaksRNAseq/annoPeak_genesFPKM-1206.R",
+				"/home/whh/bin/loginServer",
+				"/home/whh/backup/ubuntuPakcages.md",
+				"/home/whh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 75.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 173.0,
+				"height": 0.0,
 				"where_history":
 				[
-					""
 				]
 			},
 			"find_state":
@@ -598,134 +110,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"kegg",
-					"cnet",
-					"cnte",
-					"cnet",
-					"write",
-					"0825-",
-					"color",
-					"10k_500bin_center",
-					"                              --",
-					"0809",
-					"0820_hyper",
-					"www.",
-					"samtools",
-					" gg.all",
-					"%+%\n",
-					"%+%",
-					"theme",
-					"theme(",
-					"0814_3hyper",
-					"all",
-					"0814_hyper",
-					"his_all",
-					"his_ctrl",
-					"10k_500bin_center",
-					"#>>>Deeptools\n\nkdsp_hyper=../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNTkdm4d_specific.hmr_expanded_diffp1_0611.bed\ncsp_hyper=../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNTctrl_specific.hmr_expanded_diffp1_0611.bed\ncommon_hyper=../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNT_CKcommon.hmr_expanded_diffp1_0611.bed\n\n\n\n\n\n\n>> 10k_500bin_center\n\nfunction deepToolSig {\nlocal regionFile=$1\nlocal sigFile=$2\nlocal outFile=$3\n\ncomputeMatrix reference-point -S $sigFile -R  $regionFile \\\n                              --binSize 500 --referencePoint center \\\n                              --beforeRegionStartLength 10500 \\\n                              --afterRegionStartLength 10500 \\\n                              -o tmp --numberOfProcessors 8 \\\n                              --outFileNameMatrix  $outFile\n}\n\ncd ../hMeDIP_TET/\nmkdir result/deeptools/0814_3hyper\nresdir=result/deeptools/0814_3hyper\n\n# for bwfile in `ls 4_visual_macs2/wig/E1*P_treat_pileup.bw`;\n# for bwfile in `ls 4_visual_macs2/wig/E1[012]*P_treat_pileup.bw`;\n\nfor bwfile in `ls 4_visual_macs2/wig/*_treat_pileup.bw`;\ndo\n\n\tsuffix=${bwfile##*/}\n\tsuffix=${suffix%%_treat_pileup*}.tab\n\techo \"waiting for $suffix\"\n  deepToolSig $kdsp_hyper  $bwfile ${resdir}/kdsp_hyper-10k_500bin_center-$suffix & \n  deepToolSig $csp_hyper  $bwfile ${resdir}/csp_hyper-10k_500bin_center-$suffix &\n  deepToolSig $common_hyper  $bwfile ${resdir}/common_hyper-10k_500bin_center-$suffix &\ndone\n\n+ # 10000/500 *2 \n+ # 5000/500 = 20 + 10 + 20\n\n\n\nlibrary(data.table)\nlibrary(ggplot2)\nlibrary(parallel)\n# Calculate the number of cores\nno_cores <- detectCores()*.5\n# Initiate cluster\ncl <- makeCluster(no_cores)\nclusterEvalQ(cl, library(data.table))\n\n\nsigs_10k <- paste0(\"result/deeptools/0814_3hyper/\", list.files(\"result/deeptools/0814_3hyper\", pattern=glob2rx(\"*10k_500bin_center*\")))\nsigs_10k\n# pattern=\"3k_100bin\") )  \n\nsig_all_10k <- parLapply(cl, sigs_10k, function(sigfile) {  \n\n# sigfile <- sigs_10k[2]\nprint(sigfile) \ntmp <- gsub(\"\\\\w+/\",\"\", sigfile)\ndmr <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\1\", tmp)\nbinL<- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\2\", tmp)\nhisType <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\3\", tmp)\n\nprint(hisType)\nsig_table <- data.table::fread(sigfile, skip=\"#\" )\nsig_table[is.na(sig_table)] <- 0\ndt <- data.table(dmr=paste0(\"dmr\",1:(sig_table[, .N]) ), sig_table)\nmdt <- melt(dt, id.vars=\"dmr\", value.name=\"sig\", variable.name=\"bin\")\nmdt[is.na(mdt$sig), sig:=0] \navedt <- mdt[, mean(sig), by=(bin)]\navedt[, .(dmr, hisType, binL, bin=1:avedt[, .N], sig=V1) ]\n})\n\n\nhis_all <- do.call(rbind, sig_all_10k)\nhis_all[bin ==22, bin:=21]\nmerge_all <- his_all[, mean(sig), by=.(dmr, hisType, binL, bin)]\nsetnames(merge_all, \"V1\", \"msig\")\nmerge_all[, binRegion:=droplevels(factor(bin))]\nlevels(merge_all$binRegion) <- 1:41\n# droplevels(merge_all$binRegion)\n\n\ngg.all <- merge_all\ngg.ctrl <- merge_all[grepl(\"^[cs]\" , dmr) & binL == \"10k_500bin_center\"]\ngg.kd <- merge_all[grepl(\"^[ks]\" , dmr) & binL == \"10k_500bin_center\"]\n\n\nsig_10k_500bin_center <- ggplot(gg.all)+\n  geom_line(aes(x=as.numeric(binRegion), y=msig, colour =dmr ), size=1) + \n  facet_wrap( ~hisType) + # ,ncol=4\n   ylab(\"signal (NA as 0)\")+ xlab(\"\")+\n  scale_x_continuous( breaks=c(1, 21, 41), \n    labels=c(\"-10kb\", \"center\", \"10kb\") ) +\n  ylim(c(0.05, 0.3)) +\n  theme_bw(base_size = 12) +theme(legend.position=\"top\")\nsig_10k_500bin_center\n\nggsave(sig_10k_500bin_center, file=\"figures/0814_3hyper-ctrlHyper-10k_500bin_center-hisTET.pdf\", height=4, width=8)\n\n\n\n\n>> 100k_500bin\n\nfunction deepToolSig {\nlocal regionFile=$1\nlocal sigFile=$2\nlocal outFile=$3\ncomputeMatrix scale-regions -S $sigFile -R  $regionFile \\\n        --beforeRegionStartLength 100000 \\\n                              --regionBodyLength 5000 \\\n                              --afterRegionStartLength 100000 \\\n                              -o tmp --numberOfProcessors 8 \\\n                              --outFileNameMatrix  $outFile\n}\n\n\n# deepToolSig $ctrlHyper 4_visual_macs2/wig/H3K36me3_GSE12241_treat_pileup.bw testmat.gz &\nmkdir result/deeptools/0814_3hyper\nresdir=result/deeptools/0814_3hyper\n\nfor bwfile in `ls 4_visual_macs2/wig/*.bw`;\ndo\n\n  suffix=${bwfile##*/}\n  suffix=${suffix%%_treat_pileup*}.tab\n  echo \"waiting for $suffix\"\n  deepToolSig $kdsp_hyper  $bwfile ${resdir}/kdsp_hyper-10k_500bin_center-$suffix & \n  deepToolSig $csp_hyper  $bwfile ${resdir}/csp_hyper-10k_500bin_center-$suffix &\n  deepToolSig $common_hyper  $bwfile ${resdir}/common_hyper-10k_500bin_center-$suffix &\ndone\n\n\n\nsigs_100k <- paste0(\"result/deeptools/0814_3hyper/\", list.files(\"result/deeptools/0814_3hyper\", pattern=glob2rx(\"*100k*\")))\n# pattern=\"3k_100bin\") )  \n\nsig_all_100k <- parLapply(cl, \n  sig_all <- lapply(sigs_100k, function(sigfile) {  \n\n# sigfile <- sigs_100k[2]\nprint(sigfile) \ntmp <- gsub(\"\\\\w+/\",\"\", sigfile)\ndmr <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\1\", tmp)\nbinL<- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\2\", tmp)\nhisType <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\3\", tmp)\n\n# print(hisType)\nsig_table <- data.table::fread(sigfile, skip=\"#\" )\nsig_table[is.na(sig_table)] <- 0\ndt <- data.table(dmr=paste0(\"dmr\",1:(sig_table[, .N]) ), sig_table)\nmdt <- melt(dt, id.vars=\"dmr\", value.name=\"sig\", variable.name=\"bin\")\nmdt[is.na(mdt$sig), sig:=0] \navedt <- mdt[, mean(sig), by=(bin)]\navedt[, .(dmr, hisType, binL, bin=1:avedt[, .N], sig=V1) ]\n})\n\n\nhis_all <- do.call(rbind, sig_all_100k)\nhis_ctrl <-his_all[grepl(\"^[cs]\" , dmr) & binL == \"100k_500bin\"]\n\nsig_100k_500bin <- ggplot(his_ctrl)+\n  geom_line(aes(x=bin, y=sig, colour =dmr ), size=1) + \n  facet_wrap( ~hisType, scale=\"free\" ,ncol=3) + ylab(\"signal (NA as 0)\")+ xlab(\"\")+\n  scale_x_continuous( breaks=c(0, 205, 410), \n    labels=c(\"-100kb\", \"center\", \"100kb\") ) +\n  geom_vline(aes(xintercept=200), colour=\"grey50\", linetype=\"dashed\") +\n  geom_vline(aes(xintercept=210), colour=\"grey50\", linetype=\"dashed\") +\n  theme_bw(base_size = 12) +theme(legend.position=\"top\")\nsig_100k_500bin\nggsave(sig_100k_500bin, file=\"figures/0814_3hyper/ctrlHyper-100k_500bin-hisMEF.pdf\", height=16, width=9)\n\n\nhis_ctrl <-his_all[grepl(\"^[cs]\" , dmr) & binL == \"100k_500bin\"]\nhis_ctrl[bin %in% c(1:200), binRegion:=cut(bin, breaks=seq(0,200, by=20))]\nhis_ctrl[bin %in% c(201:210), binRegion:=factor(bin)]\nhis_ctrl[bin %in% c(211:410), binRegion:=cut(bin, breaks=seq(210,410, by=20))]\nhis_ctrl[, binRegion:=droplevels(binRegion)]\nlevels(his_ctrl$binRegion) <- 1:30\nmerge_ctrl <- his_ctrl[, mean(sig), by=.(dmr, hisType, binL, binRegion)]\n\n\nsig_100k_500bin <- ggplot(merge_ctrl[binL==\"100k_500bin\"])+\n  geom_line(aes(x=as.numeric(binRegion), y=V1, colour =dmr ), size=1) + \n  facet_wrap( ~hisType, scale=\"free\" ,ncol=3) + ylab(\"signal (NA as 0)\")+ xlab(\"\")+\n  scale_x_continuous( breaks=c(0, 15, 30), \n    labels=c(\"-100kb\", \"center\", \"100kb\") ) +\n  geom_vline(aes(xintercept=10), colour=\"grey50\", linetype=\"dashed\") +\n  geom_vline(aes(xintercept=20), colour=\"grey50\", linetype=\"dashed\") +\n  theme_bw(base_size = 12) +theme(legend.position=\"top\")\nsig_100k_500bin\nggsave(sig_100k_500bin, file=\"figures/0814_3hyper/ctrlHyper-merged_100k_500bin-hisMEF.pdf\", height=16, width=9)\n",
-					"&\n",
-					"0810",
-					"3k_100bin",
-					"0811",
-					"10k_250bin_center",
-					"10k_500bin_center",
-					"125",
-					"10k_500bin",
-					"pgc",
-					"10k_200bin",
-					"0809",
-					"20",
-					"0809",
-					"10000/25",
-					"100k_500bin",
-					"his_all",
-					"100k",
-					"0810",
-					"0809",
-					"10k_200bin",
-					"10000",
-					"100k_500bin",
-					"gsub",
-					"100k_100bin",
-					"3k_100bin",
-					"sigfile",
-					"t",
-					"t ",
-					"5k_100bin",
-					"10k_flank",
-					"10k_200bin",
-					"10000",
-					"10k_flank",
-					"ref_data",
-					"suffix",
-					"ctrlHyper",
-					"suffi",
-					"bed_out",
-					"bedFile",
-					"fill",
-					"t",
-					"ctrlHyper",
-					"hyper",
-					"ref_data",
-					"\\n\\n",
-					"FPKM",
-					"+0.1",
-					"log2",
-					"dmr_",
-					"_fpkm",
-					"fpkm>1",
-					"log2(3)",
-					">1",
-					">5",
-					"5",
-					"SCNT>5",
-					">5",
-					"SCNT >5",
-					" >5",
-					"pheat",
-					"hclust",
-					"clust",
-					"pheat",
-					"07",
-					"fc3",
-					"heat",
-					"chg_genes_fc3",
-					"chg_genes",
-					"pheat",
-					"Hsapiens",
-					".bed",
-					"checkbi",
-					"ICM",
-					"sum0719_pro_up3k",
-					"\nTE_WT <- all_fpkm[, apply(.SD,1,mean), .SDcols = grep(\"TE-WT\", names(all_fpkm))] \nTE_NTctrl <- all_fpkm[, apply(.SD,1,mean), .SDcols = grep(\"TE-NTctrl\", names(all_fpkm))] \nTE_NTkdm4b <- all_fpkm[, apply(.SD,1,mean), .SDcols = grep(\"TE-NTkdm4b\", names(all_fpkm))] \n\nSctrl_I_fc = log2(TE_NTctrl+0.1) - log2(TE_WT+0.1);\nSkd_I_fc = log2(TE_NTkdm4b+0.1) - log2(TE_WT+0.1);\nSkd_Sctrl_fc = log2(TE_NTkdm4b+0.1) - log2(TE_NTctrl+0.1);\n\nall_TE =  data.table(symbol=all_fpkm[,symbol], TE_WT, TE_NTctrl, TE_NTkdm4b, Sctrl_I_fc, Skd_I_fc, Skd_Sctrl_fc);\nsetkeyv(all_TE,\"symbol\")\nall_TE\n\nlibrary(data.table); library(ggplot2)\nlibrary(org.Mm.eg.db)\nlibrary(clusterProfiler)\n\n\nload(file=\"../tables/allDMG_DMR_0719-pro_up3k.Rdata\")\ndmg_dmr[, .N]\nall_dmg_dmr[, .N]  \n\n\nhyper_dmg <- merge(all_TE, dmg_dmr[grep(\"hyper\",dmr)], by=\"symbol\")[order(dmr)]\nhypo_dmg <- merge(all_TE, dmg_dmr[grep(\"hypo\",dmr)], by=\"symbol\")[order(dmr)]\n\nkdsp_hyper <- hyper_dmg[grep(\"kdm4bSp_hyper\",dmr), ]\nkdsp_hypo <- hypo_dmg[grep(\"kdm4bSp_hypo\",dmr), ]\ncsp_hyper <- hyper_dmg[grep(\"ctrlSp_hyper\",dmr), ]\ncsp_hypo <- hypo_dmg[grep(\"ctrlSp_hypo\",dmr), ]\ncommon_hyper <- hyper_dmg[grep(\"CKcommon_hyper\",dmr), ]\ncommon_hypo <- hypo_dmg[grep(\"CKcommon_hypo\",dmr), ]\n\n## bind csp, kdsp and common\nctrl_hyper <- rbind(csp_hyper, common_hyper)\nkd_hyper <- rbind(kdsp_hyper, common_hyper)\nctrl_hypo <- rbind(csp_hypo, common_hypo)\nkd_hypo <- rbind(kdsp_hypo, common_hypo)\n\n\n## high fpkm: \n# csp_high=ctrl_high - common_high\n# kdsp_high=kd_high - common_high\nctrl_hyper_hifp <- ctrl_hyper[TE_WT>3 | TE_NTctrl>3, ]\nctrl_hypo_hifp <- ctrl_hypo[TE_WT>3 | TE_NTctrl>3, ]\nkd_hyper_hifp <- kd_hyper[TE_WT>3 | TE_NTkdm4b>3, ]\nkd_hypo_hifp <- kd_hypo[TE_WT>3 | TE_NTkdm4b>3, ]\n\ncommon_hyper_hifp <- rbind(ctrl_hyper_hifp,kd_hyper_hifp)[duplicated(symbol)]\ncommon_hypo_hifp <- rbind(ctrl_hypo_hifp,kd_hypo_hifp)[duplicated(symbol)]\n\ncsp_hyper_hifp <- ctrl_hyper_hifp[!symbol %in% common_hyper_hifp$symbol, ]\ncsp_hypo_hifp <- ctrl_hypo_hifp[! symbol %in% common_hypo_hifp$symbol, ]\nkdsp_hyper_hifp <- kd_hyper_hifp[! symbol %in% common_hyper_hifp$symbol, ]\nkdsp_hypo_hifp <- kd_hypo_hifp[! symbol %in% common_hypo_hifp$symbol, ]\n\n\n## check if the number is right\nkdsp_hyper_hifp[,.N]\ncommon_hyper_hifp[,.N]\nkd_hyper_hifp[,.N]\n\ncsp_hyper_hifp[,.N]\ncommon_hyper_hifp[,.N]\nctrl_hyper_hifp[,.N]\n\n\n\nkdsp_hypo_hifp[,.N]\ncommon_hypo_hifp[,.N]\nkd_hypo_hifp[,.N]\n\ncsp_hypo_hifp[,.N]\ncommon_hypo_hifp[,.N]\nctrl_hypo_hifp[,.N]\n\n\n\nhypo_shuffled <- fread(\"result/dmrGene/raw/shuffled_SCNTctrl_hypoDMR-intersected_3ktss_170720.bed\")\nhyper_shuffled <- fread(\"result/dmrGene/raw/shuffled_SCNTctrl_hyperDMR-intersected_3ktss_170720.bed\")\n\nhypo_shuffled_fpkm <- na.omit(all_TE[unique(hypo_shuffled$V5)]) \nhyper_shuffled_fpkm <- na.omit(all_TE[unique(hyper_shuffled$V5)])\n\nall_high <- all_TE[TE_WT>3|TE_NTkdm4b>3 |TE_NTctrl>3, ]\nhyper_shuffled_high_fpkm <- na.omit(all_high[unique(hyper_shuffled$V5)])\nhypo_shuffled_high_fpkm <- na.omit(all_high[unique(hypo_shuffled$V5)])\n",
-					"ylim=c(-3,3)",
-					">1",
-					"SCNT",
-					"IVF",
-					"SCNTkdm4d",
-					"Skd_I_fc",
-					"ratio",
-					" lwd=3",
-					"(SCNTctrl_fpkm+0.1)/(IVF_fpkm+0.1)",
-					"(SCNTkdm4d_fpkm+0.1)/(IVF_fpkm+0.1)",
-					"10",
-					"5",
-					"SCNTkdm4d_fpkm>5",
-					">5",
-					"3",
-					"SCNTkdm4d_fpkm>3",
-					">3",
+					"sampleDistMatrix",
+					"sampleDistMatrix ",
+					"sampleDists",
 					"box",
-					"sum0719_",
+					"HmcesWt11 ",
+					"HmcesWt11",
+					"&",
 					"log2(3)",
-					">3 in",
-					"< 1/3 in",
-					">1 in",
-					"<1 in",
-					"< 1 in ",
-					"log2(1)",
-					" log2(1)",
-					"Chcekbias-"
+					"\\n\\n",
+					"_up",
+					"\"result/Renvs/171026-all.RData\""
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -733,134 +128,7 @@
 				"regex": true,
 				"replace_history":
 				[
-					"week38-",
-					"0820_hyper",
-					"0810",
-					"0814_3hyper",
-					"10k_500bin_center",
-					"10k_250bin_center",
-					"10k_500bin_center",
-					"10k_500bin",
-					"0810",
-					"\\n",
-					"fpkm>3",
-					"log2(5)",
-					">3",
-					"TE",
-					"sum0714/deg_dmg/0719_pro_up3k",
-					"ylim=c(-5,4)",
-					">3",
-					"ICM_NT",
-					"ICM_WT",
-					"ICM_NTkdm4b",
-					"0719_",
-					"log2(5)",
-					">5 in",
-					"< 1/5 in",
-					">3 in",
-					"< 1/3 in ",
-					"log2(3)",
-					" log2(3)",
-					"",
-					"/sum0714/deg_dmg/sum0719_pro_up3k",
-					" ylim=c(-5,5)",
-					"all_ICM",
-					".pdf",
-					"sum0719_pro_up3k-",
-					"_0719",
-					"allDMG_DMR_0719-pro_up3k",
-					"pro_up3k",
-					"sum0719_pro_up3k-",
-					"pro_up3k",
-					"eg_bar_fc5_fpkm3",
-					"log2(5)",
-					">3",
-					"sum0719-",
-					"0719",
-					"fpkm3",
-					"log2(5)",
-					">3",
-					"all",
-					"#legend.position=\"top\",",
-					"top",
-					"xlab(\"\") + ylab(\"\") +",
-					"all_5k",
-					"dir_100k",
-					"dir_5k",
-					"c(0.5, 10.5, 20.5)",
-					"p_5k",
-					"16",
-					"ctrl_hyperDMG_downDEG",
-					"ctrl_hyper_hifp",
-					"Sctrl_hyper",
-					"facet_wrap(~dmr, nrow=1)+",
-					"TE",
-					"log2(5)",
-					">3",
-					"-log2(3)",
-					" log2(3)",
-					">5",
-					"log2(5)",
-					"\\n",
-					"log2(3)",
-					">1",
-					"log2(5)",
-					"log2(3)",
-					"log2(5)",
-					">5",
-					">3",
-					">5",
-					">3",
-					">1",
-					">5",
-					"_fc3",
-					"log2(3)",
-					">3",
-					"SCNTkdm4d_fpkm",
-					"methOnRegion",
-					"methCnt",
-					"Skd_I_fc_2c",
-					"result/aveOnDMR/",
-					"merged",
-					"170615merged",
-					" result/signalOnDMR/methy/0612_5x/",
-					"result/signalOnDMR/methy/0612_5x",
-					"FIG3",
-					"shuffleHyper-",
-					"hmr_expanded_diffp1_0611",
-					"4_visual_new",
-					"2_tophat_new/",
-					"./2_tophat_new/",
-					"2_tophat_new",
-					"10.5",
-					"10kb_flanking",
-					"../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNTctrl_specific.hmr_expanded_diffp1.0608.bed",
-					"SCNTctrl_specific",
-					"DMR_SCNTkdm4d_high",
-					"DMR_SCNTkdm4d_low",
-					"./result/flanking_parent_split/0608/",
-					"\n../WGBS_new/ref_data/dmr/DMR_IVF_SCNTkdm4d_low-common.hmr_expanded_diffp1_0603.bed",
-					"hmr_expanded_diffp1_0603.txt",
-					"../WGBS_new/ref_data/dmr/DMR_IVF_SCNTkdm4d_high-common.hmr_expanded_diffp1_0603.bed",
-					"\\n",
-					"hMeDIP_TET",
-					"chg_genes <- all2[deg,  !(IVF1:SCNT2)]",
-					"hmr_expanded_diffp1_0603",
-					"/n",
-					"tss3k",
-					"figures/heats/pheatmap",
-					"promoter_intersect_gene_3k",
-					"deg_df",
-					"No. of genes on hypoDMR (FPKM>1)",
-					"No. of genes on hyperDMR (FPKM>1)",
-					"No. of genes on hypoDMR (FPKM>1):",
-					"SCNTkdm4d_hypoDMR",
-					"5k_flanking_SCNTctrl_hypoDMR",
-					"DMR_IVF_SCNTkdm4d_high",
-					"DMR_IVF_SCNTctrl_high",
-					"ylim(0,10)+ stat_summary(fun.y=mean, geom=\"point\", shape=4, size=2) ",
-					"\\n",
-					"metilene"
+					"\\n"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -870,33 +138,21 @@
 			},
 			"incremental_find":
 			{
-				"height": 75.0
+				"height": 38.0
 			},
 			"input":
 			{
 				"height": 0.0
 			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 180.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.markdown":
-			{
-				"height": 192.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 174.0
-			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 124.0
+				"height": 71.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -927,16 +183,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 153.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 928.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -946,436 +202,123 @@
 				"selected_items":
 				[
 					[
-						"W",
-						"wtb"
+						"paste",
+						"paste0"
 					],
 					[
-						"scale_",
-						"scale_color_brewer"
+						"map_dt_i",
+						"map_dt_IgG"
 					],
 					[
-						"bin",
-						"binRegion"
+						"STA",
+						"state"
 					],
 					[
-						"p_fpk",
-						"p_fpkm_sc"
+						"theme",
+						"theme_bw"
 					],
 					[
-						"deg",
-						"deg_df"
+						"uni",
+						"uniPerc"
 					],
 					[
-						"distal_",
-						"0719_distal_100k"
+						"multi",
+						"multiPerc"
 					],
 					[
-						"SC",
-						"SCNTctrl"
-					],
-					[
-						"IVF_",
-						"IVF_5k"
-					],
-					[
-						"dis",
-						"Distall"
-					],
-					[
-						"S",
-						"SCNTctrl"
-					],
-					[
-						"Va",
-						"Var2"
-					],
-					[
-						"SCNT",
-						"SCNTctrl"
-					],
-					[
-						"SCN",
-						"SCNTkdm4d"
-					],
-					[
-						"Sctrl_I_d",
-						"Sctrl_I_delta"
-					],
-					[
-						"shuffled",
-						"shuffledGene"
-					],
-					[
-						"enhancer",
-						"enhancerMeth"
-					],
-					[
-						"p",
-						"p_mdelta"
-					],
-					[
-						"log2",
-						"log2fpkm"
-					],
-					[
-						"del",
-						"deltaMethy"
-					],
-					[
-						"ctrl",
-						"ctrlSp_hyper"
-					],
-					[
-						"WGB",
-						"WGBS_new"
-					],
-					[
-						"row",
-						"rownames"
-					],
-					[
-						"IVF",
-						"IVF_fpkm"
-					],
-					[
-						"all_",
-						"all_dmg_dmr"
-					],
-					[
-						"met",
-						"methylation"
-					],
-					[
-						"shuffle",
-						"shuffledRegion"
-					],
-					[
-						"TA",
-						"tables"
-					],
-					[
-						"a",
-						"allProject"
-					],
-					[
-						"table",
-						"tables"
-					],
-					[
-						"in",
-						"inter_down"
-					],
-					[
-						"inter",
-						"inter_up"
-					],
-					[
-						"set",
-						"setkeyv"
-					],
-					[
-						"merg",
-						"merge2c_all_log2fpkm"
-					],
-					[
-						"merge",
-						"merge2c_all"
-					],
-					[
-						"Skd_",
-						"Skd_I_down"
-					],
-					[
-						"scnt",
-						"scnt2c"
-					],
-					[
-						"WT",
-						"WT_CC"
-					],
-					[
-						"cell",
-						"celltype"
-					],
-					[
-						"DMR",
-						"dmrOrigin"
-					],
-					[
-						"data",
-						"data_destrand_5x"
-					],
-					[
-						"ivf",
-						"IVF"
-					],
-					[
-						"impri",
-						"imprint_all"
-					],
-					[
-						"C",
-						"Ctype"
-					],
-					[
-						"100kb",
-						"100kb_centered"
-					],
-					[
-						"HEAT",
-						"heat_table"
-					],
-					[
-						"STE",
-						"steelblue"
-					],
-					[
-						"fac",
-						"facet_wrap"
-					],
-					[
-						"bedgra",
-						"bedgraph"
-					],
-					[
-						"SCNTk",
-						"scntKdm4d"
-					],
-					[
-						"p_",
-						"p_unscaled"
-					],
-					[
-						"gg",
-						"gg_rep_cnt"
-					],
-					[
-						"rep_a",
-						"rep_all_rpm"
-					],
-					[
-						"re",
-						"repeats"
-					],
-					[
-						"METHY",
-						"methy"
-					],
-					[
-						"100K",
-						"100kb_centered_"
-					],
-					[
-						"centered_",
-						"centered_100k"
-					],
-					[
-						"RNA",
-						"RNA_reads"
-					],
-					[
-						"gtf",
-						"gtf_format"
-					],
-					[
-						"b",
-						"bedgraph"
-					],
-					[
-						"dmr",
-						"dmrOrigin"
-					],
-					[
-						"HYPERdmr",
-						"hyperDMR"
-					],
-					[
-						"kd_",
-						"kd_lowFPKM"
-					],
-					[
-						"S_",
-						"SI_up"
-					],
-					[
-						"Skd",
-						"Skd_I_fc"
-					],
-					[
-						"DM",
-						"dmType"
-					],
-					[
-						"hmr_",
-						"hmr_expanded_diffp1_0603"
-					],
-					[
-						"scntC",
-						"scntCtrl-high"
-					],
-					[
-						"whi",
-						"white"
-					],
-					[
-						"IV",
-						"IVF"
-					],
-					[
-						"ct",
-						"ctrl_kd_diff"
-					],
-					[
-						"ggplt",
-						"ggplot2"
-					],
-					[
-						"hmr",
-						"hmr_expanded_diffp1_0603"
-					],
-					[
-						"s",
-						"symbol"
-					],
-					[
-						"hmr_e",
-						"hmr_expanded_diffp1_0604"
-					],
-					[
-						"sc",
-						"scales"
-					],
-					[
-						"librar",
-						"libarary"
-					],
-					[
-						"meth_hyperDMR_diff",
-						"meth_hyperDMR_diffp1"
+						"sample",
+						"sampleID"
 					],
 					[
 						"total",
-						"kd_totalC"
+						"totalRead"
 					],
 					[
-						"totalC",
-						"totalCpG"
+						"paset",
+						"paste0"
 					],
 					[
-						"SCNT_",
-						"SCNT_totalC"
+						"bam",
+						"bamScale"
 					],
 					[
-						"IVF_tot",
-						"IVF_totalCpG"
+						"genome",
+						"genomeCoverageBed"
 					],
 					[
-						"tota",
-						"totalCpG"
+						"rep",
+						"repname"
 					],
 					[
-						"tra",
-						"trackTool"
+						"RPM",
+						"rpm"
 					],
 					[
-						"CH",
-						"ChIP_MEF"
+						"C",
+						"ChIPpeak"
 					],
 					[
-						"5k_flanking_coo",
-						"5k_flanking_commonDMR_SCNTctrl"
+						"peak",
+						"peakGene"
 					],
 					[
-						"H3",
-						"H3K"
+						"REF",
+						"refGene"
 					],
 					[
-						"wi",
-						"width"
+						"allp",
+						"allp1_old"
 					],
 					[
-						"cu",
-						"curLoc"
-					],
-					[
-						"diff",
-						"diffDMR"
-					],
-					[
-						"signal",
-						"signalOnDMR"
-					],
-					[
-						"flank",
-						"flankLength"
-					],
-					[
-						"ggpl",
-						"ggplot2"
-					],
-					[
-						"CpG_SCNT",
-						"CpG_SCNT_kdm4d"
-					],
-					[
-						"par",
-						"partial"
-					],
-					[
-						"METH",
-						"methpipe"
+						"I",
+						"installation"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/whh/www/farnorth/index.html",
+					"file": "/home/whh/remote/allProject/hmces/logs/RNAseq.log",
 					"settings":
 					{
-						"buffer_size": 936,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/whh/www/2ndLearn/index.html",
-					"settings":
-					{
-						"buffer_size": 33,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "\nhttps://github.com/hwoihann/compass\n\n\n\nbundle exec jekyll serve\n\n\nwhh@linn:~/www/2ndLearn$ cat ../long-haul/index.html \n---\nlayout: default\ntitle: Long Haul\n---\n\n<div class=\"home\" id=\"home\">\n  <h1 class=\"pageTitle\">Recent Posts</h1>\n  <ul class=\"posts noList\">\n    {% for post in paginator.posts %}\n      <li>\n        <span class=\"date\">{{ post.date | date: '%B %d, %Y' }}</span>\n        <h3><a class=\"post-link\" href=\"{{ post.url | prepend: site.baseurl }}\">{{ post.title }}</a></h3>\n        <p class=\"description\">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>\n      </li>\n    {% endfor %}\n  </ul>\n  <!-- Pagination links -->\n  <div class=\"pagination\">\n    {% if paginator.previous_page %}\n      <a href=\"{{ paginator.previous_page_path | prepend: site.baseurl }}\" class=\"previous button__outline\">Newer Posts</a> \n    {% endif %}\n    {% if paginator.next_page %}\n      <a href=\"{{ paginator.next_page_path | prepend: site.baseurl }}\" class=\"next button__outline\">Older Posts</a>\n    {% endif %}\n  </div>\n</div>\n",
-					"settings":
-					{
-						"buffer_size": 1151,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/whh/www/2ndLearn/_posts/2017-03-19-LifeTodolist.md",
-					"settings":
-					{
-						"buffer_size": 302,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/whh/Desktop/hha.html",
-					"settings":
-					{
-						"buffer_size": 1693,
+						"buffer_size": 618,
 						"encoding": "UTF-8",
 						"line_ending": "Unix",
-						"name": "hha.html"
+						"name": "hmces.log"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/hmces/logs/docus/2018-01-17-duplicated reads in ChIPseq.md",
+					"settings":
+					{
+						"buffer_size": 55,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "2018-01-17-duplicated reads in ChIPseq.md"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/Project_scnt/RRBS_gaosr/0_RRBS_meissein/getSample.sh",
+					"settings":
+					{
+						"buffer_size": 2815,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/readMe.sh",
+					"settings":
+					{
+						"buffer_size": 10544,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/getSample.sh",
+					"settings":
+					{
+						"buffer_size": 8746,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -1386,43 +329,49 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 182.0,
-				"last_filter": "set sy she",
+				"height": 398.0,
+				"last_filter": "color",
 				"selected_items":
 				[
 					[
-						"set sy she",
-						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"PKI",
-						"Package Control: Install Package"
-					],
-					[
-						"set sy R ",
-						"Set Syntax: R"
+						"color",
+						"Color Picker"
 					],
 					[
 						"pki",
 						"Package Control: Install Package"
 					],
 					[
-						"markdown",
-						"Markdown HTML Preview"
+						"pli",
+						"Package Control: List Packages"
 					],
 					[
-						"Package Control: ",
+						"set sy r e",
+						"Set Syntax: R Extended"
+					],
+					[
+						"PKI",
+						"Package Control: Install Package"
+					],
+					[
+						"REPL: r",
+						"SublimeREPL: R"
+					],
+					[
+						"remove",
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 382.0
+				"width": 571.0
 			},
 			"console":
 			{
-				"height": 146.0,
+				"height": 126.0,
 				"history":
 				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -1436,145 +385,82 @@
 			},
 			"file_history":
 			[
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0902-DEG_heatGO_fpkm3_fc3.sh",
-				"/media/whh/document/freshBlood/CS/git/blog/themes.txt",
-				"/media/whh/document/freshBlood/CS/git/blog/howTo.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/week38/scripts/dmg-ctrlHyper_3ktss_fpkm3.R",
-				"/media/whh/document/freshBlood/CS/git/jekyll/structure.txt",
-				"/media/whh/document/freshBlood/CS/easyComan/takin/suishou-week38.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ATAC_xie/readMe.sh",
-				"/home/whh/www/2ndLearn/_config.yml",
-				"/home/whh/www/compass/_config.yml",
-				"/home/whh/www/safarnama/_config.yml",
-				"/home/whh/www/harmony/_config.yml",
-				"/home/whh/www/emerald-master/_config.yml",
-				"/home/whh/www/emerald-master/index.html",
-				"/home/whh/www/safarnama/index.html",
-				"/home/whh/www/mojombo/README.md",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0822-compareGO_dmg3ktss_fpkm3.R",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0821-deg_dmg3ktss3k_fpkm3_fc3.R",
-				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0902-hypers_dmg3ktss_fpkm3.R",
-				"/media/whh/document/freshBlood/CS/git/jekyll/note1.txt",
-				"/media/whh/document/freshBlood/CS/shortcut/shell常用命令.md",
-				"/media/whh/document/freshBlood/CS/git/note1-installations.txt",
-				"/media/whh/document/freshBlood/CS/R/lidongfeng.md",
-				"/media/whh/document/freshBlood/CS/git/ruby/ruby-gainian.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/featDMR.R",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/readMe.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/readMe_50bp.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/rpmGetter.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0912-Lola_DMR.R",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/readMe2.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/1_fastqc/H3K9me3_Ab8898_rep1_GSE18371\r_fastqc/summary.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/mESC_ChIP/0_acc/accGSE18371.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/backup/0808-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/DHS_zhang/readMe.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/backup/0802-peakAnno.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/his_gao/readMe.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0810-signalOnDMR-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/hypers/0820-hisModOnDMR_3type_gaolab-keepNA-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/hypers/0820-ATACOnDMR_3type_xielab-deepTools.sh",
-				"/media/whh/document/freshBlood/CS/easyComan/takin/suishou-week33.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/RNAseq_rep/quality.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0815-MEFsignalOnDMR_sameDMR-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/hypers/0820-DHSOnDMR_3type_zhanglab-keepNA-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/tables/others/xie_stage_hyperDMGs_GSE66582.R",
-				"/home/whh/.cache/.fr-zw5XXx/GSE76642_series_matrix.txt",
-				"/media/whh/document/freshBlood/CS/easyComan/takin/suishou-week29.txt",
-				"/home/whh/nethome/whh/allProject/Project_scnt/ChIP_MEF/readMe2.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0814-tetOnDMR_3hyper-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0810-pgcOnDMR-deepTools.sh",
-				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/0814-pgcOnDMR_3hyper-deepTools.sh",
-				"/media/whh/document/research/epiGroup/papers/reviews/websites.txt",
-				"/media/whh/document/research/epiGroup/tasks.md",
-				"/media/whh/document/data/figures/background/sceneries.txt",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0814-pgcOnDMR_3hyper-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0815-MEFsignalOnDMR_sameDMR-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0814-tetOnDMR_3hyper-deepTools.sh",
-				"/home/whh/Downloads/装机/ubuntu.sh",
-				"/home/whh/Downloads/IGB_unix_current.sh",
-				"/media/whh/document/research/epiGroup/guideline.todo",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/temp.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/0807-DMR_hisMod_PGC_rpkm.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/0811-pgcOnDMR-deepTools.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/0808-DMR_signal_new.sh",
-				"/home/whh/remote/allProject/Project_scnt/ChIP_MEF/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig5.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe2.sh",
-				"/home/whh/remote/allProject/Project_scnt/tables/readme.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/dmg_test_TEICM_FPKM1-3ktss_0719.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/Checkbias_0711-fig4_2rep_fpkm5filteDMG.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/checkbias-fcbin_fpkm.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig4_2rep.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/2repRNAseq_fpkm5_fc3.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/2repRNAseq_fpkm3_fc5_0719_3ktss.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/2repRNAseq_fpkm5.R",
-				"/media/whh/document/research/project_scnt/wiki/figures/readme.txt",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/superheat_0720.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/deg_dmg_heat.sh",
-				"/media/whh/document/research/notebook/easyComan/takin/suishou-week29.txt",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/DMR_constitution_170722.sh",
-				"/media/whh/document/dailyTasks/plans/Week29.todo",
-				"/media/whh/document/research/project_scnt/dirUsage.md",
-				"/media/whh/document/research/project_scnt/papers/readMe.md",
-				"/media/whh/document/research/project_scnt/papers/background/readMe.md",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/deg_heat_0720.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/cor_hclust_test.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/enhancer_SctrlhyperDMR-0717.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/supp.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/enhancer_allhyperDMR-0718.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq/backup/tss3k_deg_dmg.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/enhancer_allhyperDMR-0718.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/ESCfeats_all_170718.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/ESCfeats_all_170718.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/featDMR.R",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week33.txt",
+				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
+				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates.sh",
+				"/home/whh/remote/allProject/hmces/scripts/boxplot-RNA_rpm_ave-1120.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/QCtest_5M.sh",
+				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_IgG.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/getSamples.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/mappings.sh",
+				"/media/whh/document1/research/epiGroup/2018/tasks.md",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/QC/ggBar_repeatEnrich-ChIP_input-180122.pdf",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week38.txt",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week29.txt",
+				"/home/whh/Downloads/cmake-3.10.1-Linux-x86_64.sh",
+				"/media/whh/document1/research/hmces/scripts/tmp.R",
+				"/home/whh/remote/allProject/hmces/record/infoScripts/dups_mappingEffiecncy-ChIPseq.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/3_3-peak_filter.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe_log.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/cor_heat-samples.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/GO-peakGene.sh",
+				"/home/whh/hs_err_pid18966.log",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/2_bowtie2/50bp/2xFlag_TetTKO_input-rep1.align.log",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/2_bowtie2/50bp/3xFlag_TetTKO_input-rep1.align.log",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/boxplot_repeats-input_TetTKO_allUnique-180118.pdf",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/boxplot_repeats-ZHY_TetTKO-180118.pdf",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/ggridge_repeats-input_TetTKO-180118.pdf",
+				"/media/whh/document1/huihan/诗和远方/2018/Feb_HK-WithZY/personal infos.txt",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/5Mtest/2_bowtie/2xFlag_TetTKO_input-rep1.align.log",
+				"/home/whh/Documents/2windows/录取意向书-王慧菡.pdf",
+				"/home/whh/remote/allProject/hmces/scripts/boxplot-ChIP_escFeats-rpm_ave-1125.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/4-peak_filter_seps-pValue1e3.ratio3.dRPKM2.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/macs2_nomodel_pValue1e3_m5to50.sh",
+				"/media/whh/document1/freshBlood/CS/shortcut/settings/goldendict.md",
+				"/home/whh/.goldendict/config",
+				"/media/whh/document1/freshBlood/CS/shortcut/settings/shutter.md",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week45/clusterP_DEG-1107.R",
+				"/home/whh/nethome/whh/trackTool/refScripts/tssExtractor.sh",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week35.txt",
+				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig3_0612.R",
+				"/home/whh/remote/trackTool/refScripts/tssExtractor.sh",
 				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/2_bedFIlePreparation.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/result/dmrExtra/kdmHyper-intersected_2ktss1k.bed",
 				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/testSCNTkd_hyper.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/shuffleDMR_0612.R",
-				"/home/whh/remote/allProject/Project_scnt/Gaolab_RNAseq/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig4.R",
-				"/home/whh/remote/allProject/Project_scnt/Gaolab_RNAseq/backup/dmg_test_TE_0712.sh",
-				"/home/whh/remote/allProject/Project_scnt/Gaolab_RNAseq/backup/dmg_test_0712.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/2repRNAseq_fpkm5_2ktss1k_0718.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/rrbs_2c_trend_DMR_0719.sh",
-				"/home/whh/remote/allProject/Project_scnt/RRBS_gaosr/backup/readMe_0215.sh",
-				"/home/whh/remote/allProject/Project_scnt/ChIP_MEF/readMe2.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/1_dataProcess.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/3_dmrCaller.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/GO_DEG-1017.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/ggthemes.R",
+				"/home/whh/remote/allProject/Project_scnt/tables/degGetter.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/GO_DMG-1025.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/1019-davidGO.R",
+				"/home/whh/backup/ubuntuPakcages.md",
 				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/deg_dmg_goBar_test.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/methy_all.sh",
-				"/home/whh/remote/allProject/Project_scnt/2016May/new/readme.md",
-				"/home/whh/remote/allProject/Project_scnt/2016May/new/code.md",
-				"/home/whh/remote/allProject/Project_scnt/2016May/result_1_parent_origin/tileGetter",
-				"/home/whh/remote/allProject/Project_scnt/2016May/temp/readme.md",
-				"/home/whh/remote/allProject/Project_scnt/2016May/result_1_parent_origin/code.md",
-				"/home/whh/nethome/Shared/ChIPseq_bed_mm9/PeakList/CGI_mm9_ucsc.bed.All",
-				"/home/whh/remote/allProject/Project_scnt/2016May/result_1_parent_origin/readme.md",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/0718/2repRNAseq_fpkm5_fc5.R",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/checkbias-fcbin_fpkm.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/enhancer_SctrlhyperDMR-0717.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/enhancer_allhyperDMR-0717.sh",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/0714-summary/2repRNAseq_stats.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/2repRNAseq_fpkm1_0718.R",
-				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/fig4_2rep.R",
-				"/home/whh/remote/allProject/scripts/vennDiagram.R",
-				"/home/whh/remote/allProject/scripts/heatGObar.r"
+				"/home/whh/remote/allProject/Project_scnt/tables/readme.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/methy_box.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/0_fpkmOrg.R",
+				"/media/whh/document1/backup/装机ISO/ubuntu预装/installScripts_R.sh",
+				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
+				"/media/whh/document1/freshBlood/CS/shortcut/shell-ssh.md",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/colors.R",
+				"/home/whh/remote/allProject/hmces/record/shared files.log",
+				"/home/whh/remote/allProject/hmces/scripts/peaksRNAseq/annoPeak_genesFPKM-1206.R",
+				"/home/whh/bin/loginServer",
+				"/home/whh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 75.0
+				"height": 82.0
 			},
 			"find_in_files":
 			{
-				"height": 173.0,
+				"height": 0.0,
 				"where_history":
 				[
-					""
 				]
 			},
 			"find_state":
@@ -1582,134 +468,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"kegg",
-					"cnet",
-					"cnte",
-					"cnet",
-					"write",
-					"0825-",
-					"color",
-					"10k_500bin_center",
-					"                              --",
-					"0809",
-					"0820_hyper",
-					"www.",
-					"samtools",
-					" gg.all",
-					"%+%\n",
-					"%+%",
-					"theme",
-					"theme(",
-					"0814_3hyper",
+					"dups_180117",
+					"Perl_count_read_bin_140220",
+					"3xFlag_TKO_IgG",
+					"2xFlag_TKO_IgG",
+					"/2xFlag_TKO_IgG",
+					"2_bowtie2",
+					"2xFlag",
+					"reads",
+					"repeats",
+					"dupSep",
+					"tip5Input",
+					"nohup",
+					"dcast",
+					"dups_180122",
+					"-@ 8",
+					"fastq",
+					"TetTKO_input_hues8",
+					"tip5Input",
+					"0_trim50",
+					"-rep1",
+					"$file",
+					"dups_180117",
+					"3xFlag_WT_input",
+					"repCnt_all",
+					"dups_180122",
+					"readNo",
+					"detail",
+					"sample",
+					"dups_180117",
+					"_input",
+					">0.1",
+					"RPMp1",
+					"total",
+					"dupSep",
+					"5:12",
+					"apply",
 					"all",
-					"0814_hyper",
-					"his_all",
-					"his_ctrl",
-					"10k_500bin_center",
-					"#>>>Deeptools\n\nkdsp_hyper=../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNTkdm4d_specific.hmr_expanded_diffp1_0611.bed\ncsp_hyper=../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNTctrl_specific.hmr_expanded_diffp1_0611.bed\ncommon_hyper=../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNT_CKcommon.hmr_expanded_diffp1_0611.bed\n\n\n\n\n\n\n>> 10k_500bin_center\n\nfunction deepToolSig {\nlocal regionFile=$1\nlocal sigFile=$2\nlocal outFile=$3\n\ncomputeMatrix reference-point -S $sigFile -R  $regionFile \\\n                              --binSize 500 --referencePoint center \\\n                              --beforeRegionStartLength 10500 \\\n                              --afterRegionStartLength 10500 \\\n                              -o tmp --numberOfProcessors 8 \\\n                              --outFileNameMatrix  $outFile\n}\n\ncd ../hMeDIP_TET/\nmkdir result/deeptools/0814_3hyper\nresdir=result/deeptools/0814_3hyper\n\n# for bwfile in `ls 4_visual_macs2/wig/E1*P_treat_pileup.bw`;\n# for bwfile in `ls 4_visual_macs2/wig/E1[012]*P_treat_pileup.bw`;\n\nfor bwfile in `ls 4_visual_macs2/wig/*_treat_pileup.bw`;\ndo\n\n\tsuffix=${bwfile##*/}\n\tsuffix=${suffix%%_treat_pileup*}.tab\n\techo \"waiting for $suffix\"\n  deepToolSig $kdsp_hyper  $bwfile ${resdir}/kdsp_hyper-10k_500bin_center-$suffix & \n  deepToolSig $csp_hyper  $bwfile ${resdir}/csp_hyper-10k_500bin_center-$suffix &\n  deepToolSig $common_hyper  $bwfile ${resdir}/common_hyper-10k_500bin_center-$suffix &\ndone\n\n+ # 10000/500 *2 \n+ # 5000/500 = 20 + 10 + 20\n\n\n\nlibrary(data.table)\nlibrary(ggplot2)\nlibrary(parallel)\n# Calculate the number of cores\nno_cores <- detectCores()*.5\n# Initiate cluster\ncl <- makeCluster(no_cores)\nclusterEvalQ(cl, library(data.table))\n\n\nsigs_10k <- paste0(\"result/deeptools/0814_3hyper/\", list.files(\"result/deeptools/0814_3hyper\", pattern=glob2rx(\"*10k_500bin_center*\")))\nsigs_10k\n# pattern=\"3k_100bin\") )  \n\nsig_all_10k <- parLapply(cl, sigs_10k, function(sigfile) {  \n\n# sigfile <- sigs_10k[2]\nprint(sigfile) \ntmp <- gsub(\"\\\\w+/\",\"\", sigfile)\ndmr <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\1\", tmp)\nbinL<- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\2\", tmp)\nhisType <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\3\", tmp)\n\nprint(hisType)\nsig_table <- data.table::fread(sigfile, skip=\"#\" )\nsig_table[is.na(sig_table)] <- 0\ndt <- data.table(dmr=paste0(\"dmr\",1:(sig_table[, .N]) ), sig_table)\nmdt <- melt(dt, id.vars=\"dmr\", value.name=\"sig\", variable.name=\"bin\")\nmdt[is.na(mdt$sig), sig:=0] \navedt <- mdt[, mean(sig), by=(bin)]\navedt[, .(dmr, hisType, binL, bin=1:avedt[, .N], sig=V1) ]\n})\n\n\nhis_all <- do.call(rbind, sig_all_10k)\nhis_all[bin ==22, bin:=21]\nmerge_all <- his_all[, mean(sig), by=.(dmr, hisType, binL, bin)]\nsetnames(merge_all, \"V1\", \"msig\")\nmerge_all[, binRegion:=droplevels(factor(bin))]\nlevels(merge_all$binRegion) <- 1:41\n# droplevels(merge_all$binRegion)\n\n\ngg.all <- merge_all\ngg.ctrl <- merge_all[grepl(\"^[cs]\" , dmr) & binL == \"10k_500bin_center\"]\ngg.kd <- merge_all[grepl(\"^[ks]\" , dmr) & binL == \"10k_500bin_center\"]\n\n\nsig_10k_500bin_center <- ggplot(gg.all)+\n  geom_line(aes(x=as.numeric(binRegion), y=msig, colour =dmr ), size=1) + \n  facet_wrap( ~hisType) + # ,ncol=4\n   ylab(\"signal (NA as 0)\")+ xlab(\"\")+\n  scale_x_continuous( breaks=c(1, 21, 41), \n    labels=c(\"-10kb\", \"center\", \"10kb\") ) +\n  ylim(c(0.05, 0.3)) +\n  theme_bw(base_size = 12) +theme(legend.position=\"top\")\nsig_10k_500bin_center\n\nggsave(sig_10k_500bin_center, file=\"figures/0814_3hyper-ctrlHyper-10k_500bin_center-hisTET.pdf\", height=4, width=8)\n\n\n\n\n>> 100k_500bin\n\nfunction deepToolSig {\nlocal regionFile=$1\nlocal sigFile=$2\nlocal outFile=$3\ncomputeMatrix scale-regions -S $sigFile -R  $regionFile \\\n        --beforeRegionStartLength 100000 \\\n                              --regionBodyLength 5000 \\\n                              --afterRegionStartLength 100000 \\\n                              -o tmp --numberOfProcessors 8 \\\n                              --outFileNameMatrix  $outFile\n}\n\n\n# deepToolSig $ctrlHyper 4_visual_macs2/wig/H3K36me3_GSE12241_treat_pileup.bw testmat.gz &\nmkdir result/deeptools/0814_3hyper\nresdir=result/deeptools/0814_3hyper\n\nfor bwfile in `ls 4_visual_macs2/wig/*.bw`;\ndo\n\n  suffix=${bwfile##*/}\n  suffix=${suffix%%_treat_pileup*}.tab\n  echo \"waiting for $suffix\"\n  deepToolSig $kdsp_hyper  $bwfile ${resdir}/kdsp_hyper-10k_500bin_center-$suffix & \n  deepToolSig $csp_hyper  $bwfile ${resdir}/csp_hyper-10k_500bin_center-$suffix &\n  deepToolSig $common_hyper  $bwfile ${resdir}/common_hyper-10k_500bin_center-$suffix &\ndone\n\n\n\nsigs_100k <- paste0(\"result/deeptools/0814_3hyper/\", list.files(\"result/deeptools/0814_3hyper\", pattern=glob2rx(\"*100k*\")))\n# pattern=\"3k_100bin\") )  \n\nsig_all_100k <- parLapply(cl, \n  sig_all <- lapply(sigs_100k, function(sigfile) {  \n\n# sigfile <- sigs_100k[2]\nprint(sigfile) \ntmp <- gsub(\"\\\\w+/\",\"\", sigfile)\ndmr <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\1\", tmp)\nbinL<- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\2\", tmp)\nhisType <- gsub(\"(\\\\w+)-(\\\\w+)-(\\\\w+).tab\", \"\\\\3\", tmp)\n\n# print(hisType)\nsig_table <- data.table::fread(sigfile, skip=\"#\" )\nsig_table[is.na(sig_table)] <- 0\ndt <- data.table(dmr=paste0(\"dmr\",1:(sig_table[, .N]) ), sig_table)\nmdt <- melt(dt, id.vars=\"dmr\", value.name=\"sig\", variable.name=\"bin\")\nmdt[is.na(mdt$sig), sig:=0] \navedt <- mdt[, mean(sig), by=(bin)]\navedt[, .(dmr, hisType, binL, bin=1:avedt[, .N], sig=V1) ]\n})\n\n\nhis_all <- do.call(rbind, sig_all_100k)\nhis_ctrl <-his_all[grepl(\"^[cs]\" , dmr) & binL == \"100k_500bin\"]\n\nsig_100k_500bin <- ggplot(his_ctrl)+\n  geom_line(aes(x=bin, y=sig, colour =dmr ), size=1) + \n  facet_wrap( ~hisType, scale=\"free\" ,ncol=3) + ylab(\"signal (NA as 0)\")+ xlab(\"\")+\n  scale_x_continuous( breaks=c(0, 205, 410), \n    labels=c(\"-100kb\", \"center\", \"100kb\") ) +\n  geom_vline(aes(xintercept=200), colour=\"grey50\", linetype=\"dashed\") +\n  geom_vline(aes(xintercept=210), colour=\"grey50\", linetype=\"dashed\") +\n  theme_bw(base_size = 12) +theme(legend.position=\"top\")\nsig_100k_500bin\nggsave(sig_100k_500bin, file=\"figures/0814_3hyper/ctrlHyper-100k_500bin-hisMEF.pdf\", height=16, width=9)\n\n\nhis_ctrl <-his_all[grepl(\"^[cs]\" , dmr) & binL == \"100k_500bin\"]\nhis_ctrl[bin %in% c(1:200), binRegion:=cut(bin, breaks=seq(0,200, by=20))]\nhis_ctrl[bin %in% c(201:210), binRegion:=factor(bin)]\nhis_ctrl[bin %in% c(211:410), binRegion:=cut(bin, breaks=seq(210,410, by=20))]\nhis_ctrl[, binRegion:=droplevels(binRegion)]\nlevels(his_ctrl$binRegion) <- 1:30\nmerge_ctrl <- his_ctrl[, mean(sig), by=.(dmr, hisType, binL, binRegion)]\n\n\nsig_100k_500bin <- ggplot(merge_ctrl[binL==\"100k_500bin\"])+\n  geom_line(aes(x=as.numeric(binRegion), y=V1, colour =dmr ), size=1) + \n  facet_wrap( ~hisType, scale=\"free\" ,ncol=3) + ylab(\"signal (NA as 0)\")+ xlab(\"\")+\n  scale_x_continuous( breaks=c(0, 15, 30), \n    labels=c(\"-100kb\", \"center\", \"100kb\") ) +\n  geom_vline(aes(xintercept=10), colour=\"grey50\", linetype=\"dashed\") +\n  geom_vline(aes(xintercept=20), colour=\"grey50\", linetype=\"dashed\") +\n  theme_bw(base_size = 12) +theme(legend.position=\"top\")\nsig_100k_500bin\nggsave(sig_100k_500bin, file=\"figures/0814_3hyper/ctrlHyper-merged_100k_500bin-hisMEF.pdf\", height=16, width=9)\n",
-					"&\n",
-					"0810",
-					"3k_100bin",
-					"0811",
-					"10k_250bin_center",
-					"10k_500bin_center",
-					"125",
-					"10k_500bin",
-					"pgc",
-					"10k_200bin",
-					"0809",
-					"20",
-					"0809",
-					"10000/25",
-					"100k_500bin",
-					"his_all",
-					"100k",
-					"0810",
-					"0809",
-					"10k_200bin",
-					"10000",
-					"100k_500bin",
-					"gsub",
-					"100k_100bin",
-					"3k_100bin",
-					"sigfile",
-					"t",
-					"t ",
-					"5k_100bin",
-					"10k_flank",
-					"10k_200bin",
-					"10000",
-					"10k_flank",
-					"ref_data",
-					"suffix",
-					"ctrlHyper",
-					"suffi",
-					"bed_out",
-					"bedFile",
-					"fill",
-					"t",
-					"ctrlHyper",
-					"hyper",
-					"ref_data",
-					"\\n\\n",
-					"FPKM",
-					"+0.1",
-					"log2",
-					"dmr_",
-					"_fpkm",
-					"fpkm>1",
-					"log2(3)",
-					">1",
-					">5",
-					"5",
-					"SCNT>5",
-					">5",
-					"SCNT >5",
-					" >5",
-					"pheat",
-					"hclust",
-					"clust",
-					"pheat",
-					"07",
-					"fc3",
-					"heat",
-					"chg_genes_fc3",
-					"chg_genes",
-					"pheat",
-					"Hsapiens",
-					".bed",
-					"checkbi",
-					"ICM",
-					"sum0719_pro_up3k",
-					"\nTE_WT <- all_fpkm[, apply(.SD,1,mean), .SDcols = grep(\"TE-WT\", names(all_fpkm))] \nTE_NTctrl <- all_fpkm[, apply(.SD,1,mean), .SDcols = grep(\"TE-NTctrl\", names(all_fpkm))] \nTE_NTkdm4b <- all_fpkm[, apply(.SD,1,mean), .SDcols = grep(\"TE-NTkdm4b\", names(all_fpkm))] \n\nSctrl_I_fc = log2(TE_NTctrl+0.1) - log2(TE_WT+0.1);\nSkd_I_fc = log2(TE_NTkdm4b+0.1) - log2(TE_WT+0.1);\nSkd_Sctrl_fc = log2(TE_NTkdm4b+0.1) - log2(TE_NTctrl+0.1);\n\nall_TE =  data.table(symbol=all_fpkm[,symbol], TE_WT, TE_NTctrl, TE_NTkdm4b, Sctrl_I_fc, Skd_I_fc, Skd_Sctrl_fc);\nsetkeyv(all_TE,\"symbol\")\nall_TE\n\nlibrary(data.table); library(ggplot2)\nlibrary(org.Mm.eg.db)\nlibrary(clusterProfiler)\n\n\nload(file=\"../tables/allDMG_DMR_0719-pro_up3k.Rdata\")\ndmg_dmr[, .N]\nall_dmg_dmr[, .N]  \n\n\nhyper_dmg <- merge(all_TE, dmg_dmr[grep(\"hyper\",dmr)], by=\"symbol\")[order(dmr)]\nhypo_dmg <- merge(all_TE, dmg_dmr[grep(\"hypo\",dmr)], by=\"symbol\")[order(dmr)]\n\nkdsp_hyper <- hyper_dmg[grep(\"kdm4bSp_hyper\",dmr), ]\nkdsp_hypo <- hypo_dmg[grep(\"kdm4bSp_hypo\",dmr), ]\ncsp_hyper <- hyper_dmg[grep(\"ctrlSp_hyper\",dmr), ]\ncsp_hypo <- hypo_dmg[grep(\"ctrlSp_hypo\",dmr), ]\ncommon_hyper <- hyper_dmg[grep(\"CKcommon_hyper\",dmr), ]\ncommon_hypo <- hypo_dmg[grep(\"CKcommon_hypo\",dmr), ]\n\n## bind csp, kdsp and common\nctrl_hyper <- rbind(csp_hyper, common_hyper)\nkd_hyper <- rbind(kdsp_hyper, common_hyper)\nctrl_hypo <- rbind(csp_hypo, common_hypo)\nkd_hypo <- rbind(kdsp_hypo, common_hypo)\n\n\n## high fpkm: \n# csp_high=ctrl_high - common_high\n# kdsp_high=kd_high - common_high\nctrl_hyper_hifp <- ctrl_hyper[TE_WT>3 | TE_NTctrl>3, ]\nctrl_hypo_hifp <- ctrl_hypo[TE_WT>3 | TE_NTctrl>3, ]\nkd_hyper_hifp <- kd_hyper[TE_WT>3 | TE_NTkdm4b>3, ]\nkd_hypo_hifp <- kd_hypo[TE_WT>3 | TE_NTkdm4b>3, ]\n\ncommon_hyper_hifp <- rbind(ctrl_hyper_hifp,kd_hyper_hifp)[duplicated(symbol)]\ncommon_hypo_hifp <- rbind(ctrl_hypo_hifp,kd_hypo_hifp)[duplicated(symbol)]\n\ncsp_hyper_hifp <- ctrl_hyper_hifp[!symbol %in% common_hyper_hifp$symbol, ]\ncsp_hypo_hifp <- ctrl_hypo_hifp[! symbol %in% common_hypo_hifp$symbol, ]\nkdsp_hyper_hifp <- kd_hyper_hifp[! symbol %in% common_hyper_hifp$symbol, ]\nkdsp_hypo_hifp <- kd_hypo_hifp[! symbol %in% common_hypo_hifp$symbol, ]\n\n\n## check if the number is right\nkdsp_hyper_hifp[,.N]\ncommon_hyper_hifp[,.N]\nkd_hyper_hifp[,.N]\n\ncsp_hyper_hifp[,.N]\ncommon_hyper_hifp[,.N]\nctrl_hyper_hifp[,.N]\n\n\n\nkdsp_hypo_hifp[,.N]\ncommon_hypo_hifp[,.N]\nkd_hypo_hifp[,.N]\n\ncsp_hypo_hifp[,.N]\ncommon_hypo_hifp[,.N]\nctrl_hypo_hifp[,.N]\n\n\n\nhypo_shuffled <- fread(\"result/dmrGene/raw/shuffled_SCNTctrl_hypoDMR-intersected_3ktss_170720.bed\")\nhyper_shuffled <- fread(\"result/dmrGene/raw/shuffled_SCNTctrl_hyperDMR-intersected_3ktss_170720.bed\")\n\nhypo_shuffled_fpkm <- na.omit(all_TE[unique(hypo_shuffled$V5)]) \nhyper_shuffled_fpkm <- na.omit(all_TE[unique(hyper_shuffled$V5)])\n\nall_high <- all_TE[TE_WT>3|TE_NTkdm4b>3 |TE_NTctrl>3, ]\nhyper_shuffled_high_fpkm <- na.omit(all_high[unique(hyper_shuffled$V5)])\nhypo_shuffled_high_fpkm <- na.omit(all_high[unique(hypo_shuffled$V5)])\n",
-					"ylim=c(-3,3)",
-					">1",
-					"SCNT",
-					"IVF",
-					"SCNTkdm4d",
-					"Skd_I_fc",
-					"ratio",
-					" lwd=3",
-					"(SCNTctrl_fpkm+0.1)/(IVF_fpkm+0.1)",
-					"(SCNTkdm4d_fpkm+0.1)/(IVF_fpkm+0.1)",
-					"10",
-					"5",
-					"SCNTkdm4d_fpkm>5",
-					">5",
+					"geom_bo",
+					"boxp",
+					"repCnt_all",
+					"ggtitle",
+					"p_repNum",
+					"p_repEnrich",
+					"angle",
+					"180119",
+					"read",
+					"readper",
+					"scale",
+					"p_repNumPerc",
+					"p_repNumPerc ",
+					"sampleID",
+					"facet_wrap",
+					"dt_meanRPM",
+					"17689267",
+					"aligned exactly 1 time",
+					"aligned >1 times",
+					"rep1",
+					"5:10",
 					"3",
-					"SCNTkdm4d_fpkm>3",
-					">3",
-					"box",
-					"sum0719_",
-					"log2(3)",
-					">3 in",
-					"< 1/3 in",
-					">1 in",
-					"<1 in",
-					"< 1 in ",
-					"log2(1)",
-					" log2(1)",
-					"Chcekbias-"
+					"5:10",
+					"all",
+					"2_bowtie2",
+					"3xFlag_TetTKO_input-rep1.sam",
+					"c(4,4)",
+					"5:8",
+					"file",
+					"9:12",
+					"width=9,height=9",
+					"Boxplot_Repeats_rpm",
+					"12",
+					"load",
+					"cnt",
+					"_uniq",
+					"2_bowtie2",
+					"hyTetTKO_dups",
+					"repCnt_dt_filt",
+					"BEGIN",
+					"rep1_dups",
+					"3xFlag_TetTKO_input",
+					"2xtetTKOinput:3xtetTKOinput",
+					"rep_cnt_dt",
+					"rep_cnt_all",
+					"rep_cnt_filt",
+					"rep_cnt",
+					"3xFlag_TetTKO_input-uniq",
+					"3xFlag_TetTKO_input",
+					"genomeCoverageBed",
+					"2_bowtie2",
+					"genomeCoverageBed",
+					"ibam",
+					"rep1_uniq",
+					"mm9",
+					"ibam",
+					"-ibam",
+					"ibam",
+					"sam",
+					"2_bowtie2",
+					"bedFile",
+					"scale",
+					"genomeCoverageBed",
+					"$file",
+					"perl ~/allProject/bin/Perl_count_reads_bin_140220.pl",
+					"$file",
+					"Perl_count_reads_bin_140220",
+					"dupSeps",
+					"dups",
+					" $file",
+					"file",
+					"&",
+					"$1",
+					"AS:i",
+					"2_bowtie2",
+					"rep1_",
+					"awk",
+					"-m 1",
+					"-v 2",
+					"V8",
+					"-HmcesWT-rep1_uniq.cnt",
+					"-HmcesWT-rep2_uniq.cnt",
+					"data/RNAseq/result/",
+					"171120",
+					"result/repeats/dups_180117/",
+					"result",
+					"2_tophat",
+					"repeats",
+					"F12",
+					"result/genes/ChIPpeak",
+					"box"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1717,134 +603,24 @@
 				"regex": true,
 				"replace_history":
 				[
-					"week38-",
-					"0820_hyper",
-					"0810",
-					"0814_3hyper",
-					"10k_500bin_center",
-					"10k_250bin_center",
-					"10k_500bin_center",
-					"10k_500bin",
-					"0810",
-					"\\n",
-					"fpkm>3",
-					"log2(5)",
-					">3",
-					"TE",
-					"sum0714/deg_dmg/0719_pro_up3k",
-					"ylim=c(-5,4)",
-					">3",
-					"ICM_NT",
-					"ICM_WT",
-					"ICM_NTkdm4b",
-					"0719_",
-					"log2(5)",
-					">5 in",
-					"< 1/5 in",
-					">3 in",
-					"< 1/3 in ",
-					"log2(3)",
-					" log2(3)",
+					"dups_180122all",
+					"2xFlag_TetTKO_IgG",
+					"read",
+					"repeat",
+					"dups_180122",
+					"dups_180117",
+					"dups_180122",
+					"_IgG",
+					"unique reads",
+					"multihits",
+					"repCnt_dt",
+					"repCnt_all",
+					"./result/",
+					"dups_180117",
 					"",
-					"/sum0714/deg_dmg/sum0719_pro_up3k",
-					" ylim=c(-5,5)",
-					"all_ICM",
-					".pdf",
-					"sum0719_pro_up3k-",
-					"_0719",
-					"allDMG_DMR_0719-pro_up3k",
-					"pro_up3k",
-					"sum0719_pro_up3k-",
-					"pro_up3k",
-					"eg_bar_fc5_fpkm3",
-					"log2(5)",
-					">3",
-					"sum0719-",
-					"0719",
-					"fpkm3",
-					"log2(5)",
-					">3",
-					"all",
-					"#legend.position=\"top\",",
-					"top",
-					"xlab(\"\") + ylab(\"\") +",
-					"all_5k",
-					"dir_100k",
-					"dir_5k",
-					"c(0.5, 10.5, 20.5)",
-					"p_5k",
-					"16",
-					"ctrl_hyperDMG_downDEG",
-					"ctrl_hyper_hifp",
-					"Sctrl_hyper",
-					"facet_wrap(~dmr, nrow=1)+",
-					"TE",
-					"log2(5)",
-					">3",
-					"-log2(3)",
-					" log2(3)",
-					">5",
-					"log2(5)",
-					"\\n",
-					"log2(3)",
-					">1",
-					"log2(5)",
-					"log2(3)",
-					"log2(5)",
-					">5",
-					">3",
-					">5",
-					">3",
-					">1",
-					">5",
-					"_fc3",
-					"log2(3)",
-					">3",
-					"SCNTkdm4d_fpkm",
-					"methOnRegion",
-					"methCnt",
-					"Skd_I_fc_2c",
-					"result/aveOnDMR/",
-					"merged",
-					"170615merged",
-					" result/signalOnDMR/methy/0612_5x/",
-					"result/signalOnDMR/methy/0612_5x",
-					"FIG3",
-					"shuffleHyper-",
-					"hmr_expanded_diffp1_0611",
-					"4_visual_new",
-					"2_tophat_new/",
-					"./2_tophat_new/",
-					"2_tophat_new",
-					"10.5",
-					"10kb_flanking",
-					"../WGBS_new/6_DMR/methpipe/dmr/hyperDMR-SCNTctrl_specific.hmr_expanded_diffp1.0608.bed",
-					"SCNTctrl_specific",
-					"DMR_SCNTkdm4d_high",
-					"DMR_SCNTkdm4d_low",
-					"./result/flanking_parent_split/0608/",
-					"\n../WGBS_new/ref_data/dmr/DMR_IVF_SCNTkdm4d_low-common.hmr_expanded_diffp1_0603.bed",
-					"hmr_expanded_diffp1_0603.txt",
-					"../WGBS_new/ref_data/dmr/DMR_IVF_SCNTkdm4d_high-common.hmr_expanded_diffp1_0603.bed",
-					"\\n",
-					"hMeDIP_TET",
-					"chg_genes <- all2[deg,  !(IVF1:SCNT2)]",
-					"hmr_expanded_diffp1_0603",
-					"/n",
-					"tss3k",
-					"figures/heats/pheatmap",
-					"promoter_intersect_gene_3k",
-					"deg_df",
-					"No. of genes on hypoDMR (FPKM>1)",
-					"No. of genes on hyperDMR (FPKM>1)",
-					"No. of genes on hypoDMR (FPKM>1):",
-					"SCNTkdm4d_hypoDMR",
-					"5k_flanking_SCNTctrl_hypoDMR",
-					"DMR_IVF_SCNTkdm4d_high",
-					"DMR_IVF_SCNTctrl_high",
-					"ylim(0,10)+ stat_summary(fun.y=mean, geom=\"point\", shape=4, size=2) ",
-					"\\n",
-					"metilene"
+					"$5",
+					"$4",
+					"\\n"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1855,126 +631,59 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/whh/www/farnorth/index.html",
+							"file": "/home/whh/remote/allProject/hmces/logs/RNAseq.log",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 936,
+								"buffer_size": 618,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										147,
-										147
+										618,
+										618
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"auto_name": "hmces.log",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Log).sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/whh/www/2ndLearn/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 33,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										33,
-										33
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 81.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 1,
+							"file": "/home/whh/remote/allProject/hmces/logs/docus/2018-01-17-duplicated reads in ChIPseq.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1151,
+								"buffer_size": 55,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1151,
-										1151
+										48,
+										48
 									]
 								],
 								"settings":
 								{
-									"auto_name": "",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/whh/www/2ndLearn/_posts/2017-03-19-LifeTodolist.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 302,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										94,
-										94
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": 0,
-										"count": 29,
-										"modified": false,
-										"selection": false,
-										"status": -1,
-										"syntax": "plain text"
-									},
-									"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+									"auto_name": "2018-01-17-duplicated reads in ChIPseq.md",
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1984,11 +693,40 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 2,
+							"file": "/home/whh/remote/allProject/Project_scnt/RRBS_gaosr/0_RRBS_meissein/getSample.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 2815,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										254,
+										165
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/readMe.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10544,
 								"regions":
 								{
 								},
@@ -2001,44 +739,43 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2088.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/home/whh/Desktop/hha.html",
+							"buffer": 4,
+							"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/getSample.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1693,
+								"buffer_size": 8746,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										274,
-										274
+										1977,
+										1977
 									]
 								],
 								"settings":
 								{
-									"auto_name": "hha.html",
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 81.0,
+								"translation.y": 1008.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -2046,7 +783,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 75.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -2075,28 +812,20 @@
 				]
 			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 180.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.markdown":
+			"output.mdpopups":
 			{
-				"height": 192.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 174.0
+				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,686,933,687,964,3000,1920",
+			"position": "0,1,0,0,0,0,0,0,0,3000,1920",
 			"project": "",
 			"replace":
 			{
-				"height": 124.0
+				"height": 134.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2119,22 +848,22 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 332.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 420.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 153.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

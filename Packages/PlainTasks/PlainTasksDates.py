@@ -32,7 +32,11 @@ if ST3:
 
 
 def is_yearfirst(date_format):
-    return date_format.strip('( )').startswith(('%y', '%Y'))
+    return date_format.strip('(  )').startswith(('%y', '%Y'))
+
+
+def is_dayfirst(date_format):
+    return date_format.strip('(  )').startswith(('%d'))
 
 
 def _convert_date(matchstr, now):
@@ -108,6 +112,7 @@ def increase_date(view, region, text, now, date_format):
             created_date, error = parse_date(created.group(1),
                                              date_format=date_format,
                                              yearfirst=is_yearfirst(date_format),
+                                             dayfirst=is_dayfirst(date_format),
                                              default=now)
             if error:
                 ln = (view.rowcol(line.a)[0] + 1)
@@ -161,12 +166,16 @@ def expand_short_date(view, start, end, now, date_format):
     if '+' in text:
         date, error = increase_date(view, region, text, now, date_format)
     else:
-        date, error = parse_date(text, date_format, yearfirst=is_yearfirst(date_format), default=now)
+        date, error = parse_date(text,
+                                 date_format,
+                                 yearfirst=is_yearfirst(date_format),
+                                 dayfirst=is_dayfirst(date_format),
+                                 default=now)
 
     return date, error, sublime.Region(start, end + 1)
 
 
-def parse_date(date_string, date_format='(%y-%m-%d %H:%M)', yearfirst=True, default=None):
+def parse_date(date_string, date_format='(%y-%m-%d %H:%M)', yearfirst=True, dayfirst=False, default=None):
     '''
     Attempt to convert arbitrary string to datetime object
     date_string
@@ -196,6 +205,7 @@ def parse_date(date_string, date_format='(%y-%m-%d %H:%M)', yearfirst=True, defa
             raise Exception("Special case of short date: less than 3 numbers")
         date = dateutil_parser.parse(bare_date_string,
                                      yearfirst=yearfirst,
+                                     dayfirst=dayfirst,
                                      default=default)
         if NT and all((date.year < 1900, '%y' in date_format)):
             return None, ('format %y requires year >= 1900 on Windows', date.year, date.month, date.day, date.hour, date.minute)
@@ -273,7 +283,11 @@ class PlainTasksToggleHighlightPastDue(PlainTasksEnabled):
                 date, error = increase_date(self.view, region, text, default, date_format)
                 # print(date, date_format)
             else:
-                date, error = parse_date(text, date_format=date_format, yearfirst=yearfirst, default=default)
+                date, error = parse_date(text,
+                                         date_format=date_format,
+                                         yearfirst=yearfirst,
+                                         dayfirst=is_dayfirst(date_format),
+                                         default=default)
                 # print(date, date_format, yearfirst)
             if error:
                 # print(error)
@@ -496,10 +510,19 @@ class PlainTasksPreviewShortDate(PlainTasksViewEventListener):
                 delta = format_delta(self.view, date - now)
             content = (overdue_format if '-' in delta else remain_format).format(time=delta.lstrip('-') or 'a little bit')
             if content:
-                upd.append(sublime.Phantom(
-                    sublime.Region(region.a - 4),
-                    content,
-                    sublime.LAYOUT_BELOW))
+                if self.view.settings().get('show_remain_due', False):
+                    # replace existing remain/overdue phantom
+                    phantoms = self.view.settings().get('plain_tasks_remain_time_phantoms', [])
+                    for index, (point, _) in enumerate(phantoms):
+                        if point == region.a - 4:
+                            phantoms[index] = [point, str(delta)]
+                            self.view.settings().set('plain_tasks_remain_time_phantoms', phantoms)
+                            break
+                else:
+                    upd.append(sublime.Phantom(
+                        sublime.Region(region.a - 4),
+                        content,
+                        sublime.LAYOUT_BELOW))
             date = date.strftime(date_format).strip('()')
         if date == match.group(1).strip():
             self.phantoms.update(upd)
@@ -690,11 +713,14 @@ class PlainTasksRemain(PlainTasksViewEventListener):
         if not self.phantoms:
             self.phantom_set.update([])
             return
+        remain_format = self.view.settings().get('due_remain_format', '{time} remaining')
+        overdue_format = self.view.settings().get('due_overdue_format', '{time} overdue')
+
         upd = []
         for point, content in self.phantoms:
             upd.append(sublime.Phantom(
                 sublime.Region(point),
-                '%s %s' % ('Overdue' if '-' in content else 'Remain', content.lstrip('-') or 'a little bit'),
+                (overdue_format if '-' in content else remain_format).format(time=content.lstrip('-') or 'a little bit'),
                 sublime.LAYOUT_BELOW))
         self.phantom_set.update(upd)
 

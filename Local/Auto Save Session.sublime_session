@@ -1,0 +1,1009 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3143,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sample",
+						"sampleDistMatrix"
+					],
+					[
+						"I",
+						"installation"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 398.0,
+				"last_filter": "set sy r e",
+				"selected_items":
+				[
+					[
+						"set sy r e",
+						"Set Syntax: R Extended"
+					],
+					[
+						"PKI",
+						"Package Control: Install Package"
+					],
+					[
+						"REPL: r",
+						"SublimeREPL: R"
+					],
+					[
+						"pki",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 571.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/methy_box.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/0_fpkmOrg.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe_log.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
+				"/media/whh/document1/backup/装机ISO/ubuntu预装/installScripts_R.sh",
+				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
+				"/media/whh/document1/freshBlood/CS/shortcut/shell-ssh.md",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/colors.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/cor_heat-samples.R",
+				"/home/whh/remote/allProject/hmces/record/shared files.log",
+				"/home/whh/remote/allProject/hmces/scripts/peaksRNAseq/annoPeak_genesFPKM-1206.R",
+				"/home/whh/bin/loginServer",
+				"/home/whh/backup/ubuntuPakcages.md",
+				"/home/whh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sampleDistMatrix",
+					"sampleDistMatrix ",
+					"sampleDists",
+					"box",
+					"HmcesWt11 ",
+					"HmcesWt11",
+					"&",
+					"log2(3)",
+					"\\n\\n",
+					"_up",
+					"\"result/Renvs/171026-all.RData\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 71.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"EXP",
+						"exp"
+					],
+					[
+						"read",
+						"readType"
+					],
+					[
+						"paste",
+						"paste0"
+					],
+					[
+						"map_dt_i",
+						"map_dt_IgG"
+					],
+					[
+						"STA",
+						"state"
+					],
+					[
+						"theme",
+						"theme_bw"
+					],
+					[
+						"uni",
+						"uniPerc"
+					],
+					[
+						"multi",
+						"multiPerc"
+					],
+					[
+						"sample",
+						"sampleID"
+					],
+					[
+						"total",
+						"totalRead"
+					],
+					[
+						"paset",
+						"paste0"
+					],
+					[
+						"bam",
+						"bamScale"
+					],
+					[
+						"genome",
+						"genomeCoverageBed"
+					],
+					[
+						"rep",
+						"repname"
+					],
+					[
+						"RPM",
+						"rpm"
+					],
+					[
+						"C",
+						"ChIPpeak"
+					],
+					[
+						"peak",
+						"peakGene"
+					],
+					[
+						"REF",
+						"refGene"
+					],
+					[
+						"allp",
+						"allp1_old"
+					],
+					[
+						"I",
+						"installation"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/whh/remote/allProject/hmces/logs/RNAseq.log",
+					"settings":
+					{
+						"buffer_size": 618,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "hmces.log"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/hmces/logs/docus/2018-01-17-duplicated reads in ChIPseq.md",
+					"settings":
+					{
+						"buffer_size": 55,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "2018-01-17-duplicated reads in ChIPseq.md"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/readMe.sh",
+					"settings":
+					{
+						"buffer_size": 10544,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
+					"settings":
+					{
+						"buffer_size": 23445,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/hmces/data/readMe.sh",
+					"settings":
+					{
+						"buffer_size": 2376,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/media/whh/document1/freshBlood/CS/shortcut/SublimeText3中文输入",
+					"settings":
+					{
+						"buffer_size": 1132,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nChIPseq H3K4me3-rep1 ChIPseq-H3K4me3_rep1-201704  /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   H3K4me3\nChIPseq Hmces-rep1  ChIPseq-Hmces_rep1-201704   /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   Hmces-1\nChIPseq Hmces-rep2  ChIPseq-Hmces_rep2-201704   /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   Hmces-2\nChIPseq ChIPinput-rep1  ChIPseq-ChIPinput_rep1-201704   /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   ChIP-input\nChIPseq ChIPinput-rep1  ChIPseq-ChIPinput_rep1-201706   /illumina/L6-SR17005    ChIP-input\nChIPseq Hmces-rep1  ChIPseq-Hmces_rep1-201706   /illumina/L6-SR17005    Hmces-1\nChIPseq Hmces-rep2  ChIPseq-Hmces_rep2-201706   /illumina/L6-SR17005    Hmces-2\n",
+					"settings":
+					{
+						"buffer_size": 729,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/getSample.sh",
+					"settings":
+					{
+						"buffer_size": 8746,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 398.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"pki",
+						"Package Control: Install Package"
+					],
+					[
+						"pli",
+						"Package Control: List Packages"
+					],
+					[
+						"set sy r e",
+						"Set Syntax: R Extended"
+					],
+					[
+						"PKI",
+						"Package Control: Install Package"
+					],
+					[
+						"REPL: r",
+						"SublimeREPL: R"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 571.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/whh/document1/freshBlood/CS/shortcut/Sublime Text 3 快捷键精华版",
+				"/home/whh/remote/allProject/hmces/data/sampleInfo.txt",
+				"/home/whh/remote/allProject/hmces/data/UCSC.md",
+				"/home/whh/remote/allProject/hmces/data/UCSC.txt",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_blast/README_origin.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_blast/readMe.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/genomeAnalysis/1_genome-feats_Methylation.sh",
+				"/home/whh/remote/allProject/Project_scnt/RRBS_gaosr/0_RRBS_meissein/getSample.sh",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week33.txt",
+				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
+				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates.sh",
+				"/home/whh/remote/allProject/hmces/scripts/boxplot-RNA_rpm_ave-1120.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/QCtest_5M.sh",
+				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_IgG.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/getSamples.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/mappings.sh",
+				"/media/whh/document1/research/epiGroup/2018/tasks.md",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/QC/ggBar_repeatEnrich-ChIP_input-180122.pdf",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week38.txt",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week29.txt",
+				"/home/whh/Downloads/cmake-3.10.1-Linux-x86_64.sh",
+				"/media/whh/document1/research/hmces/scripts/tmp.R",
+				"/home/whh/remote/allProject/hmces/record/infoScripts/dups_mappingEffiecncy-ChIPseq.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/3_3-peak_filter.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe_log.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/cor_heat-samples.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/GO-peakGene.sh",
+				"/home/whh/hs_err_pid18966.log",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/2_bowtie2/50bp/2xFlag_TetTKO_input-rep1.align.log",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/2_bowtie2/50bp/3xFlag_TetTKO_input-rep1.align.log",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/boxplot_repeats-input_TetTKO_allUnique-180118.pdf",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/boxplot_repeats-ZHY_TetTKO-180118.pdf",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/ggridge_repeats-input_TetTKO-180118.pdf",
+				"/media/whh/document1/huihan/诗和远方/2018/Feb_HK-WithZY/personal infos.txt",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/5Mtest/2_bowtie/2xFlag_TetTKO_input-rep1.align.log",
+				"/home/whh/Documents/2windows/录取意向书-王慧菡.pdf",
+				"/home/whh/remote/allProject/hmces/scripts/boxplot-ChIP_escFeats-rpm_ave-1125.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/4-peak_filter_seps-pValue1e3.ratio3.dRPKM2.sh",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/macs2_nomodel_pValue1e3_m5to50.sh",
+				"/media/whh/document1/freshBlood/CS/shortcut/settings/goldendict.md",
+				"/home/whh/.goldendict/config",
+				"/media/whh/document1/freshBlood/CS/shortcut/settings/shutter.md",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week45/clusterP_DEG-1107.R",
+				"/home/whh/nethome/whh/trackTool/refScripts/tssExtractor.sh",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week35.txt",
+				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig3_0612.R",
+				"/home/whh/remote/trackTool/refScripts/tssExtractor.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/2_bedFIlePreparation.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/result/dmrExtra/kdmHyper-intersected_2ktss1k.bed",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/testSCNTkd_hyper.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/1_dataProcess.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/3_dmrCaller.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/GO_DEG-1017.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/ggthemes.R",
+				"/home/whh/remote/allProject/Project_scnt/tables/degGetter.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/GO_DMG-1025.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/1019-davidGO.R",
+				"/home/whh/backup/ubuntuPakcages.md",
+				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/deg_dmg_goBar_test.sh",
+				"/home/whh/remote/allProject/Project_scnt/tables/readme.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week41/methy_box.R",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/0_fpkmOrg.R",
+				"/media/whh/document1/backup/装机ISO/ubuntu预装/installScripts_R.sh",
+				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
+				"/media/whh/document1/freshBlood/CS/shortcut/shell-ssh.md",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/colors.R",
+				"/home/whh/remote/allProject/hmces/record/shared files.log",
+				"/home/whh/remote/allProject/hmces/scripts/peaksRNAseq/annoPeak_genesFPKM-1206.R",
+				"/home/whh/bin/loginServer",
+				"/home/whh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 82.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"read",
+					"$read",
+					"read",
+					"tip5Input",
+					"featName",
+					"repName",
+					"repname",
+					"dups_180122all",
+					"dups_180117",
+					"Perl_count_read_bin_140220",
+					"3xFlag_TKO_IgG",
+					"2xFlag_TKO_IgG",
+					"/2xFlag_TKO_IgG",
+					"2_bowtie2",
+					"2xFlag",
+					"reads",
+					"repeats",
+					"dupSep",
+					"tip5Input",
+					"nohup",
+					"dcast",
+					"dups_180122",
+					"-@ 8",
+					"fastq",
+					"TetTKO_input_hues8",
+					"tip5Input",
+					"0_trim50",
+					"-rep1",
+					"$file",
+					"dups_180117",
+					"3xFlag_WT_input",
+					"repCnt_all",
+					"dups_180122",
+					"readNo",
+					"detail",
+					"sample",
+					"dups_180117",
+					"_input",
+					">0.1",
+					"RPMp1",
+					"total",
+					"dupSep",
+					"5:12",
+					"apply",
+					"all",
+					"geom_bo",
+					"boxp",
+					"repCnt_all",
+					"ggtitle",
+					"p_repNum",
+					"p_repEnrich",
+					"angle",
+					"180119",
+					"read",
+					"readper",
+					"scale",
+					"p_repNumPerc",
+					"p_repNumPerc ",
+					"sampleID",
+					"facet_wrap",
+					"dt_meanRPM",
+					"17689267",
+					"aligned exactly 1 time",
+					"aligned >1 times",
+					"rep1",
+					"5:10",
+					"3",
+					"5:10",
+					"all",
+					"2_bowtie2",
+					"3xFlag_TetTKO_input-rep1.sam",
+					"c(4,4)",
+					"5:8",
+					"file",
+					"9:12",
+					"width=9,height=9",
+					"Boxplot_Repeats_rpm",
+					"12",
+					"load",
+					"cnt",
+					"_uniq",
+					"2_bowtie2",
+					"hyTetTKO_dups",
+					"repCnt_dt_filt",
+					"BEGIN",
+					"rep1_dups",
+					"3xFlag_TetTKO_input",
+					"2xtetTKOinput:3xtetTKOinput",
+					"rep_cnt_dt",
+					"rep_cnt_all",
+					"rep_cnt_filt",
+					"rep_cnt",
+					"3xFlag_TetTKO_input-uniq",
+					"3xFlag_TetTKO_input",
+					"genomeCoverageBed",
+					"2_bowtie2",
+					"genomeCoverageBed",
+					"ibam",
+					"rep1_uniq",
+					"mm9",
+					"ibam",
+					"-ibam",
+					"ibam",
+					"sam",
+					"2_bowtie2",
+					"bedFile",
+					"scale",
+					"genomeCoverageBed",
+					"$file",
+					"perl ~/allProject/bin/Perl_count_reads_bin_140220.pl",
+					"$file",
+					"Perl_count_reads_bin_140220",
+					"dupSeps",
+					"dups",
+					" $file",
+					"file",
+					"&",
+					"$1",
+					"AS:i",
+					"2_bowtie2",
+					"rep1_",
+					"awk",
+					"-m 1",
+					"-v 2",
+					"V8",
+					"-HmcesWT-rep1_uniq.cnt",
+					"-HmcesWT-rep2_uniq.cnt",
+					"data/RNAseq/result/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"dups_180122all",
+					"2xFlag_TetTKO_IgG",
+					"read",
+					"repeat",
+					"dups_180122",
+					"dups_180117",
+					"dups_180122",
+					"_IgG",
+					"unique reads",
+					"multihits",
+					"repCnt_dt",
+					"repCnt_all",
+					"./result/",
+					"dups_180117",
+					"",
+					"$5",
+					"$4",
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/whh/remote/allProject/hmces/logs/RNAseq.log",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 618,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										618,
+										618
+									]
+								],
+								"settings":
+								{
+									"auto_name": "hmces.log",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Log).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/whh/remote/allProject/hmces/logs/docus/2018-01-17-duplicated reads in ChIPseq.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 55,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										48,
+										48
+									]
+								],
+								"settings":
+								{
+									"auto_name": "2018-01-17-duplicated reads in ChIPseq.md",
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/readMe.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10544,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 408.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										936,
+										936
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 60.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/whh/remote/allProject/hmces/data/readMe.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2376,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2376,
+										2376
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/media/whh/document1/freshBlood/CS/shortcut/SublimeText3中文输入",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1132,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										280,
+										280
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 729,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/getSample.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8746,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1977,
+										1977
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1008.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,287,705,1007,1245,3000,1920",
+			"project": "",
+			"replace":
+			{
+				"height": 134.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 332.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 420.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
