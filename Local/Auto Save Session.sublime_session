@@ -3,11 +3,11 @@
 	[
 	],
 	"last_version": 3143,
-	"last_window_id": 3,
+	"last_window_id": 44,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 507.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -15,192 +15,209 @@
 				"selected_items":
 				[
 					[
+						"user",
+						"userUniverse"
+					],
+					[
+						"g_",
+						"gdt_all"
+					],
+					[
+						"LABEL",
+						"label_info"
+					],
+					[
+						"METHI",
+						"methdiff"
+					],
+					[
+						"S",
+						"SCNTctrl"
+					],
+					[
+						"facet",
+						"facet_wrap"
+					],
+					[
+						"scn",
+						"SCNTkdm4d"
+					],
+					[
+						"SCNT",
+						"SCNTkdm4d"
+					],
+					[
+						"geom",
+						"geom_point"
+					],
+					[
+						"SCN",
+						"SCNTkdm4d"
+					],
+					[
+						"SC",
+						"SCNTkdm4d"
+					],
+					[
+						"meth",
+						"methdiff"
+					],
+					[
+						"Of",
+						"OFS"
+					],
+					[
+						"gri",
+						"gridExtra"
+					],
+					[
+						"grid.",
+						"grid.arrange"
+					],
+					[
+						"chrmo",
+						"ChromSize"
+					],
+					[
+						"Meth",
+						"methpipe"
+					],
+					[
+						"wig",
+						"wigToBigWig"
+					],
+					[
+						"out",
+						"outDir"
+					],
+					[
+						"sort",
+						"sortBam"
+					],
+					[
+						"SCNT_",
+						"SCNT_CAST"
+					],
+					[
+						"scntKD",
+						"SCNTkdm4d_129"
+					],
+					[
+						"FILE",
+						"filename"
+					],
+					[
+						"3c",
+						"3c_methpipeSNP_mm10"
+					],
+					[
+						"snp",
+						"snpSplit"
+					],
+					[
+						"bisu",
+						"bisulfite"
+					],
+					[
+						"2c",
+						"2c_bisSNP_mm10"
+					],
+					[
+						"bed",
+						"bedgraph"
+					],
+					[
+						"kd_deg_",
+						"kd_deg_129"
+					],
+					[
+						"SNP",
+						"SNPsam"
+					],
+					[
+						"tri",
+						"trimAuto_PE"
+					],
+					[
+						"vc",
+						"VCF"
+					],
+					[
+						"3FTKOinput_",
+						"3FTKOinput_R1"
+					],
+					[
+						"p_map",
+						"p_mapall"
+					],
+					[
+						"scal",
+						"scale_fill_ptol"
+					],
+					[
+						"all",
+						"allProject"
+					],
+					[
+						"SCALE",
+						"scale_fill_ptol"
+					],
+					[
+						"scale",
+						"scale_color_brewer\t{ggplot2}"
+					],
+					[
+						"prese",
+						"Presentation"
+					],
+					[
 						"sample",
-						"sampleDistMatrix"
+						"sampleName"
 					],
 					[
-						"I",
-						"installation"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 398.0,
-				"last_filter": "set sy r e",
-				"selected_items":
-				[
-					[
-						"set sy r e",
-						"Set Syntax: R Extended"
+						"inte",
+						"intersect\t{base}"
 					],
 					[
-						"PKI",
-						"Package Control: Install Package"
+						"hSCNT8C_",
+						"hSCNT8C_KDM4A"
 					],
 					[
-						"REPL: r",
-						"SublimeREPL: R"
+						"ave",
+						"aveFPKM"
 					],
 					[
-						"pki",
-						"Package Control: Install Package"
+						"sampl",
+						"sampleID"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					]
-				],
-				"width": 571.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/whh/remote/allProject/Project_scnt/scripts/week41/methy_box.R",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/0_fpkmOrg.R",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe_log.sh",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
-				"/media/whh/document1/backup/装机ISO/ubuntu预装/installScripts_R.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
-				"/media/whh/document1/freshBlood/CS/shortcut/shell-ssh.md",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/colors.R",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/cor_heat-samples.R",
-				"/home/whh/remote/allProject/hmces/record/shared files.log",
-				"/home/whh/remote/allProject/hmces/scripts/peaksRNAseq/annoPeak_genesFPKM-1206.R",
-				"/home/whh/bin/loginServer",
-				"/home/whh/backup/ubuntuPakcages.md",
-				"/home/whh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"sampleDistMatrix",
-					"sampleDistMatrix ",
-					"sampleDists",
-					"box",
-					"HmcesWt11 ",
-					"HmcesWt11",
-					"&",
-					"log2(3)",
-					"\\n\\n",
-					"_up",
-					"\"result/Renvs/171026-all.RData\""
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"\\n"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 38.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 71.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
+						"col",
+						"colnames\t{base}"
+					],
+					[
+						"symb",
+						"symbol"
+					],
+					[
+						"if",
+						"ifelse\t{base}"
+					],
+					[
+						"grep",
+						"grepl\t{base}"
+					],
+					[
+						"IV",
+						"IVF_blast_2"
+					],
+					[
+						"IVF",
+						"IVF_blast_1"
+					],
+					[
+						"sym",
+						"symbol"
+					],
 					[
 						"EXP",
 						"exp"
@@ -234,8 +251,759 @@
 						"multiPerc"
 					],
 					[
+						"total",
+						"totalRead"
+					],
+					[
+						"paset",
+						"paste0"
+					],
+					[
+						"bam",
+						"bamScale"
+					],
+					[
+						"genome",
+						"genomeCoverageBed"
+					],
+					[
+						"rep",
+						"repname"
+					],
+					[
+						"RPM",
+						"rpm"
+					],
+					[
+						"C",
+						"ChIPpeak"
+					],
+					[
+						"peak",
+						"peakGene"
+					],
+					[
+						"REF",
+						"refGene"
+					],
+					[
+						"allp",
+						"allp1_old"
+					],
+					[
+						"I",
+						"installation"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 398.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"pki",
+						"Package Control: Install Package"
+					],
+					[
+						"font ",
+						"A File Icon: Settings"
+					],
+					[
+						"ICON",
+						"A File Icon: Revert to a Freshly Installed State"
+					],
+					[
+						"markdwon prev",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pki ",
+						"Package Control: Install Package"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"pli",
+						"Package Control: List Packages"
+					],
+					[
+						"set sy r e",
+						"Set Syntax: R Extended"
+					],
+					[
+						"PKI",
+						"Package Control: Install Package"
+					],
+					[
+						"REPL: r",
+						"SublimeREPL: R"
+					]
+				],
+				"width": 571.0
+			},
+			"console":
+			{
+				"height": 404.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"copy_file_path\" }",
+					"{ \"keys\": [\"super+i\"], \"command\": \"copy_file_path\" }",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"translate",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/03c_splitDMRstats-BoxAndBar.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/01_getDMR-180401.sh",
+				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0815-methy_DMR_dens.sh",
+				"/home/whh/remote/default/Renv/ggthemes.R",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/func_03-ceas.sh",
+				"/home/whh/remote/allProject/scnt/scripts/expression/02a_repeats-ggridge.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week39/ggridgeRPM-0928.R",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/03b_splitDMRstats-scatters.sh",
+				"/home/whh/remote/allProject/scnt/streams/dirtFigure/DMR_stats/scatter_DMR-gpoint_dmrSpcis_ML_deltaML-180403.pdf",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-all.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/func_07-LOLA.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02b_DMRstats-bars.sh",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/featDMR.R",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/infos.sh",
+				"/home/whh/nethome/whh/allProject/scnt/streams/dirtFigure/DMR_stats/scatter_DMR-gpoint_dmr_length_deltaML-180403.pdf",
+				"/home/whh/nethome/whh/allProject/scnt/streams/dirtFigure/DMR_stats/scatter_DMR-gpoint_dmr_ML_paired-180403.pdf",
+				"/home/whh/remote/allProject/scnt/default/ggthemes.R",
+				"/home/whh/remote/allProject/scnt/default/drawVenn.R",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/tmp.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/README.md",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/catolog.md",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/final/3_dmrCaller.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_DMRgetter/01_getDMR-180331.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_DMRgetter/tmp.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/DMRstats_log.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/split_mannual-WGBS_mm9-newLoc.sh",
+				"/home/whh/remote/allProject/scnt/default/colors.R",
+				"/home/whh/remote/allProject/Project_G45/analysis/bar_featureMethy-180402.sh",
+				"/home/whh/remote/allProject/Project_G45/backup/cggs.bash",
+				"/home/whh/remote/allProject/Project_G45/readMe.sh",
+				"/home/whh/remote/allProject/Project_G45/backup/readMe.bash",
+				"/home/whh/remote/allProject/Project_G45/0_rawCount/READ.txt",
+				"/home/whh/remote/allProject/Project_G45/quality",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/01_getDMR-180401.R",
+				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/0902-methy_all.sh",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/shuffleDMR.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
+				"/home/whh/remote/allProject/kinet_18March/data/readMe.sh",
+				"/home/whh/remote/allProject/kinet_18March/data/genome/readme.sh",
+				"/home/whh/remote/allProject/kinet_18March/analysis/halfCEN_mapping.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-180401.R",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/split_mannual-WGBS_mm9.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week45/bar_featureMethy-1108.R",
+				"/home/whh/nethome/whh/allProject/kinet_18March/data/genome/regions/half_CEN.bed",
+				"/home/whh/remote/allProject/kinet_18March/data/ChIPseq/readMe.sh",
+				"/home/whh/remote/allProject/kinet_18March/data/ChIPseq/readMe_50bp.sh",
+				"/home/whh/remote/allProject/scnt/scripts/bin/bedMethCalculator.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week46/supp_KDMdmrRRBS-1220.R",
+				"/home/whh/remote/allProject/Project_G45/result/dtable/repeats-mean_methylation-180402.txt",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/1111-aveOnDMR-methyC_liujiang.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-180401.sh",
+				"/home/whh/remote/allProject/Archive/Project_G45/0_rawCount/READ.txt",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week46/methy_box.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week39/methy_profile-1001.sh",
+				"/home/whh/remote/allProject/Archive/Project_G45/readMe.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/readMe-2a_bismark_mm9.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/originalReadme.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/DMR/dmrGetter.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe2.sh",
+				"/home/whh/remote/allProject/scnt/scripts/codEnv/out_formats.R",
+				"/home/whh/remote/allProject/Project_scnt/Readme.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/finalRead.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_DMRgetter/180331.sh",
+				"/home/whh/docus/www/farnorth/_posts/2018-03-31-refGenome-dataPrepared.md",
+				"/home/whh/.config/sublime-text-3/Packages/User/add_date.py",
+				"/home/whh/remote/allProject/scnt/data/WGBS/2a_bismark_readMe.sh",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/02a_methylKit.sh",
+				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs_log.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRcaller_COMPARE.sh",
+				"/home/whh/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/01a_bismark.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/1_dataProcess.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/3_dmrCaller.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/test/readMe.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/2c_bisSNP_mm10.sh",
+				"/home/whh/remote/allProject/scnt/discuss/outline.20180314.md",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/readMe.sh",
+				"/home/whh/Documents/mm94igv/mm9_bt2.genome",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/splitSNP-RNAseq_mm9.sh",
+				"/media/whh/document1/research/epiGroup/2018/bioDatainR/readGTF.R",
+				"/media/whh/document1/research/epiGroup/2018/bioDatainR/readGTF-fungi.R",
+				"/home/whh/docus/www/farnorth/_posts/2018-03-30-R-gtf-refGenome.md",
+				"/home/whh/nethome/whh/allProject/tet/data/sampleMapping.txt",
+				"/home/whh/nethome/Shared/workshop/readMe.md",
+				"/home/whh/nethome/whh/allProject/kinet_18March/README.md",
+				"/home/whh/nethome/whh/allProject/tet/data/qualities.sh",
+				"/home/whh/remote/allProject/kinet_18March/discuss/reports/wigs-180330/README.sh",
+				"/home/whh/igv/annotation/sacca.pombe/gene_info-Schizosaccharomyces_pombe.ASM294v2.38.bed",
+				"/home/whh/remote/allProject/kinet_18March/discuss/reports/4_visual_macs2/README.sh",
+				"/home/whh/remote/allProject/kinet_18March/discuss/reports/4_visual_macs2/README.txt",
+				"/home/whh/remote/allProject/tet/scripts/ChIP_01-repeats_TetTKO/01a_duplicates-getRawfile.sh",
+				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
+				"/home/whh/igv/data/sacca.pombe/Schizosaccharomyces_pombe.ASM294v2.38.gtf",
+				"/home/whh/remote/allProject/genomes/GRCm38/README.sh",
+				"/media/whh/document1/research/epiGroup/2018/bioDatainR/readGTF.md",
+				"/home/whh/remote/allProject/tet/data/ChIPseq/getSamples.sh",
+				"/home/whh/remote/allProject/kinet_18March/README.md",
+				"/home/whh/remote/allProject/tet/data/ChIPseq/mappings.sh",
+				"/home/whh/remote/allProject/tet/data/ChIPseq/QCtest_5M.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/QCtest_5M.sh",
+				"/run/user/1000/gvfs/smb-share:server=10.73.9.100,share=shenlab/whh/pipeline_ChIPseq-180329.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/QCtest_5M-SNP.sh",
+				"/home/whh/remote/allProject/kinet_18March/README.sh",
+				"/home/whh/remote/allProject/_TEMPLATES/project/README.md",
+				"/home/whh/nethome/Shared/annotation/genomes/GRCm38/README.md",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/splitSNP-RNAseq_mm10.sh",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/split_mannual-RNAseq.sh",
+				"/home/whh/docus/www/hwoihann.github.io/_includes/recent_counter.html",
+				"/home/whh/docus/www/hwoihann.github.io/_includes/Recent-content.html",
+				"/tmp/mozilla_whh0/BioSampleObjects.txt",
+				"/home/whh/remote/allProject/scnt/data/RNAseq/mappings.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/newRead.sh",
+				"/home/whh/remote/allProject/genomes/SNPinfo/GRCm38/129_cast/CAST_EiJ_genome_preparation_report.txt",
+				"/home/whh/Downloads/SRAupload_shenlab_SCNT-180327.txt",
+				"/home/whh/remote/allProject/genomes/SNPinfo/README.md",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/split_mannual.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/QCtest_5M_mm10.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/QCtest_5M-SNP_mm10.sh",
+				"/home/whh/remote/allProject/scnt/data/RNAseq/samFilter.sh",
+				"/var/www/jbrowser/JBrowse-1.12.1/index.html",
+				"/home/whh/remote/genomebrowser/REAS-JBrowse.md",
+				"/run/user/1000/gvfs/smb-share:server=10.73.9.100,share=web/index.html",
+				"/home/whh/remote/allProject/scnt/data/RNAseq/readMe.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_blast/README_origin.sh"
+			],
+			"find":
+			{
+				"height": 82.0
+			},
+			"find_in_files":
+			{
+				"height": 186.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\"NA\"",
+					"methdiff",
+					"chr,i.start",
+					"i.start",
+					"start",
+					" -(dmr:",
+					"DMR_ivf_lt_ctrl",
+					"\"D",
+					"\"/",
+					"paste0",
+					"readBed",
+					"paste0",
+					"user",
+					"bedLoc",
+					"result/functionDMR/LOLA/liftDMRs",
+					"~/trackTool/liftOver/",
+					"received",
+					"write.table",
+					"unMapped",
+					"$ctrl_hypo ",
+					"ctrl_hypo",
+					"gdt_sample",
+					"+",
+					"lt",
+					"gt",
+					"\"gt\",",
+					"20000",
+					"10",
+					"gdt_sample",
+					"85",
+					"0.55",
+					"20000,",
+					"_ML",
+					"0",
+					"0.6",
+					"0.85",
+					"0.3",
+					"0.25",
+					"line",
+					"0",
+					"_gt",
+					"ggtitle",
+					"+ ggtitle",
+					"alpha",
+					"gpoint_dmr_ML_paired",
+					"aes",
+					"),",
+					"lt_ctrl.col, ",
+					"lt_ctrl",
+					"alpha=0.8",
+					"0.5",
+					"_overlap",
+					"ivf_",
+					": ",
+					"0.85",
+					"c(",
+					"'",
+					" = ",
+					"t_",
+					"_kd",
+					"DMR_kd_gt_overlap",
+					"dmrType",
+					"duplicated",
+					"nethome",
+					"duplicated",
+					"lt_",
+					"methdiff",
+					"length",
+					"dmr",
+					"alpha",
+					"0.65",
+					"width=18",
+					"25",
+					"alpha=0.25",
+					"ylab",
+					"xlim",
+					"y = 10",
+					"0.85,",
+					"dmrType",
+					"scale_color_manual",
+					"scale_color_manual(values=c(ivf.col, scnt.col),limits=c(\"IVF\",\"SCNTctrl\")) ",
+					"color",
+					"y=ML",
+					"write.table",
+					"25",
+					"dmrType",
+					"0.85",
+					"0.2",
+					"x = 0.2",
+					"IVF",
+					"# ",
+					"kdscnt",
+					"kdmSCNT",
+					"IVF",
+					"ivf_",
+					"3",
+					"label.df",
+					"data.frame",
+					"dmrSource",
+					"length",
+					"pdmr_ivf_ctrl",
+					"ivf",
+					"IVF",
+					", sep=\"\"",
+					"& methdiff > 0.1",
+					"\nDMR_kd_ctrl=/nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR/DMR_kd_ctrl.bed\nDMR_ivf_ctrl=/nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR/DMR_ivf_ctrl.bed\n\nDMR_ivf_lt_specific=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_ivf_lt_specific-diffp1_0402.bed\nDMR_kd_lt_specific=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_kd_lt_specific-diffp1_0402.bed\nDMR_kd_lt_overlap=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_kd_lt_overlap-diffp1_0402.bed\nDMR_ivf_lt_overlap=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_ivf_lt_overlap-diffp1_0402.bed\nDMR_ivf_gt_specific=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_ivf_gt_specific-diffp1_0402.bed\nDMR_kd_gt_specific=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_kd_gt_specific-diffp1_0402.bed\nDMR_kd_gt_overlap=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_kd_gt_overlap-diffp1_0402.bed\nDMR_ivf_gt_overlap=nethome/whh/allProject/scnt/streams/ucscLocs/meth_DMR/DMR_ivf_gt_overlap-diffp1_0402.bed",
+					"file",
+					"diff",
+					"DMR_SCctrl_kd",
+					"setkeyv",
+					"105",
+					"Renv",
+					"renv",
+					"DMRgetter",
+					"dmr_expandHmr",
+					"fread",
+					"SCNTkdm4d",
+					"kd_",
+					"c(",
+					"kd_",
+					"SCNTctrl",
+					"DMR_dt",
+					" = ",
+					"_kd",
+					"IVF_SC",
+					"CNTkd_SCNT",
+					"common_180331.txt",
+					"DMR_DMR_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"result/functionDMR/LOLA/liftDMRs_mm10",
+					"",
+					"DMRcaller",
+					"halfCEN_bowtie",
+					"2_bowtie/150bp_halfCEN",
+					"2_bowtie/",
+					"result/meth_levels/",
+					"meth_destranded_5x/",
+					"sig_dirLoc",
+					"result/meth_destrand_5x",
+					"dmr_expandHmr/",
+					"hmr_expanded_0331",
+					"common_180331",
+					"common_0331",
+					".expd.",
+					".expand."
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 134.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 398.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 420.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1845.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"SYMB",
+						"symbol"
+					],
+					[
+						"dmr_cont_",
+						"dmr_cont_CGI"
+					],
+					[
+						"user",
+						"userUniverse"
+					],
+					[
+						"g_",
+						"gdt_all"
+					],
+					[
+						"LABEL",
+						"label_info"
+					],
+					[
+						"METHI",
+						"methdiff"
+					],
+					[
+						"S",
+						"SCNTctrl"
+					],
+					[
+						"facet",
+						"facet_wrap"
+					],
+					[
+						"scn",
+						"SCNTkdm4d"
+					],
+					[
+						"SCNT",
+						"SCNTkdm4d"
+					],
+					[
+						"geom",
+						"geom_point"
+					],
+					[
+						"SCN",
+						"SCNTkdm4d"
+					],
+					[
+						"SC",
+						"SCNTkdm4d"
+					],
+					[
+						"meth",
+						"methdiff"
+					],
+					[
+						"Of",
+						"OFS"
+					],
+					[
+						"gri",
+						"gridExtra"
+					],
+					[
+						"grid.",
+						"grid.arrange"
+					],
+					[
+						"chrmo",
+						"ChromSize"
+					],
+					[
+						"Meth",
+						"methpipe"
+					],
+					[
+						"wig",
+						"wigToBigWig"
+					],
+					[
+						"out",
+						"outDir"
+					],
+					[
+						"sort",
+						"sortBam"
+					],
+					[
+						"SCNT_",
+						"SCNT_CAST"
+					],
+					[
+						"scntKD",
+						"SCNTkdm4d_129"
+					],
+					[
+						"FILE",
+						"filename"
+					],
+					[
+						"3c",
+						"3c_methpipeSNP_mm10"
+					],
+					[
+						"snp",
+						"snpSplit"
+					],
+					[
+						"bisu",
+						"bisulfite"
+					],
+					[
+						"2c",
+						"2c_bisSNP_mm10"
+					],
+					[
+						"bed",
+						"bedgraph"
+					],
+					[
+						"kd_deg_",
+						"kd_deg_129"
+					],
+					[
+						"SNP",
+						"SNPsam"
+					],
+					[
+						"tri",
+						"trimAuto_PE"
+					],
+					[
+						"vc",
+						"VCF"
+					],
+					[
+						"3FTKOinput_",
+						"3FTKOinput_R1"
+					],
+					[
+						"p_map",
+						"p_mapall"
+					],
+					[
+						"scal",
+						"scale_fill_ptol"
+					],
+					[
+						"all",
+						"allProject"
+					],
+					[
+						"SCALE",
+						"scale_fill_ptol"
+					],
+					[
+						"scale",
+						"scale_color_brewer\t{ggplot2}"
+					],
+					[
+						"prese",
+						"Presentation"
+					],
+					[
 						"sample",
+						"sampleName"
+					],
+					[
+						"inte",
+						"intersect\t{base}"
+					],
+					[
+						"hSCNT8C_",
+						"hSCNT8C_KDM4A"
+					],
+					[
+						"ave",
+						"aveFPKM"
+					],
+					[
+						"sampl",
 						"sampleID"
+					],
+					[
+						"col",
+						"colnames\t{base}"
+					],
+					[
+						"symb",
+						"symbol"
+					],
+					[
+						"if",
+						"ifelse\t{base}"
+					],
+					[
+						"grep",
+						"grepl\t{base}"
+					],
+					[
+						"IV",
+						"IVF_blast_2"
+					],
+					[
+						"IVF",
+						"IVF_blast_1"
+					],
+					[
+						"sym",
+						"symbol"
+					],
+					[
+						"EXP",
+						"exp"
+					],
+					[
+						"read",
+						"readType"
+					],
+					[
+						"paste",
+						"paste0"
+					],
+					[
+						"map_dt_i",
+						"map_dt_IgG"
+					],
+					[
+						"STA",
+						"state"
+					],
+					[
+						"theme",
+						"theme_bw"
+					],
+					[
+						"uni",
+						"uniPerc"
+					],
+					[
+						"multi",
+						"multiPerc"
 					],
 					[
 						"total",
@@ -286,73 +1054,22 @@
 			"buffers":
 			[
 				{
-					"file": "/home/whh/remote/allProject/hmces/logs/RNAseq.log",
+					"file": "/home/whh/.config/sublime-text-3/backup.sh",
 					"settings":
 					{
-						"buffer_size": 618,
-						"encoding": "UTF-8",
-						"line_ending": "Unix",
-						"name": "hmces.log"
-					}
-				},
-				{
-					"file": "/home/whh/remote/allProject/hmces/logs/docus/2018-01-17-duplicated reads in ChIPseq.md",
-					"settings":
-					{
-						"buffer_size": 55,
-						"encoding": "UTF-8",
-						"line_ending": "Unix",
-						"name": "2018-01-17-duplicated reads in ChIPseq.md"
-					}
-				},
-				{
-					"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/readMe.sh",
-					"settings":
-					{
-						"buffer_size": 10544,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
-					"settings":
-					{
-						"buffer_size": 23445,
-						"encoding": "UTF-8",
+						"buffer_size": 0,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/whh/remote/allProject/hmces/data/readMe.sh",
+					"contents": "# sublime-text-3\nbackup~\n\nSublime Text 的 data 文件夹路径如下：\n\n - OS X: ~/Library/Application Support/Sublime Text 3\n - Windows: %APPDATA%\\Sublime Text 3\n - Linux: ~/.config/sublime-text-3\n\n\n",
+					"file": "/home/whh/backup/sublime-text-3/README.md",
+					"file_size": 200,
+					"file_write_time": 131602156047358036,
 					"settings":
 					{
-						"buffer_size": 2376,
+						"buffer_size": 184,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/media/whh/document1/freshBlood/CS/shortcut/SublimeText3中文输入",
-					"settings":
-					{
-						"buffer_size": 1132,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "\nChIPseq H3K4me3-rep1 ChIPseq-H3K4me3_rep1-201704  /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   H3K4me3\nChIPseq Hmces-rep1  ChIPseq-Hmces_rep1-201704   /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   Hmces-1\nChIPseq Hmces-rep2  ChIPseq-Hmces_rep2-201704   /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   Hmces-2\nChIPseq ChIPinput-rep1  ChIPseq-ChIPinput_rep1-201704   /illumina/SR17005_20170416_X3_FCB/SR17005_20170416_X3_FCB   ChIP-input\nChIPseq ChIPinput-rep1  ChIPseq-ChIPinput_rep1-201706   /illumina/L6-SR17005    ChIP-input\nChIPseq Hmces-rep1  ChIPseq-Hmces_rep1-201706   /illumina/L6-SR17005    Hmces-1\nChIPseq Hmces-rep2  ChIPseq-Hmces_rep2-201706   /illumina/L6-SR17005    Hmces-2\n",
-					"settings":
-					{
-						"buffer_size": 729,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/getSample.sh",
-					"settings":
-					{
-						"buffer_size": 8746,
 						"line_ending": "Unix"
 					}
 				}
@@ -365,16 +1082,48 @@
 			"command_palette":
 			{
 				"height": 398.0,
-				"last_filter": "color",
+				"last_filter": "markdownpre",
 				"selected_items":
 				[
+					[
+						"markdownpre",
+						"GitHub Flavored Markdown: Preview"
+					],
 					[
 						"color",
 						"Color Picker"
 					],
 					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
 						"pki",
 						"Package Control: Install Package"
+					],
+					[
+						"font ",
+						"A File Icon: Settings"
+					],
+					[
+						"ICON",
+						"A File Icon: Revert to a Freshly Installed State"
+					],
+					[
+						"markdwon prev",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pki ",
+						"Package Control: Install Package"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
 					],
 					[
 						"pli",
@@ -391,19 +1140,22 @@
 					[
 						"REPL: r",
 						"SublimeREPL: R"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					]
 				],
-				"width": 571.0
+				"width": 611.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 404.0,
 				"history":
 				[
+					"sublime.log_commands(False)",
+					"{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"copy_file_path\" }",
+					"{ \"keys\": [\"super+i\"], \"command\": \"copy_file_path\" }",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"translate",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -420,80 +1172,134 @@
 			},
 			"file_history":
 			[
-				"/media/whh/document1/freshBlood/CS/shortcut/Sublime Text 3 快捷键精华版",
-				"/home/whh/remote/allProject/hmces/data/sampleInfo.txt",
-				"/home/whh/remote/allProject/hmces/data/UCSC.md",
-				"/home/whh/remote/allProject/hmces/data/UCSC.txt",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_blast/README_origin.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_blast/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/genomeAnalysis/1_genome-feats_Methylation.sh",
-				"/home/whh/remote/allProject/Project_scnt/RRBS_gaosr/0_RRBS_meissein/getSample.sh",
-				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week33.txt",
-				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
-				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates.sh",
-				"/home/whh/remote/allProject/hmces/scripts/boxplot-RNA_rpm_ave-1120.sh",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/QCtest_5M.sh",
-				"/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_IgG.sh",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/getSamples.sh",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/mappings.sh",
-				"/media/whh/document1/research/epiGroup/2018/tasks.md",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/QC/ggBar_repeatEnrich-ChIP_input-180122.pdf",
+				"/home/whh/remote/allProject/scnt/data/tables/readme.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/expression/01_deg.R",
+				"/home/whh/nethome/whh/allProject/scnt/discuss/outlines/20180401.md",
+				"/home/whh/nethome/whh/allProject/codingEnv/ggplotFuncs/core_1.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/scripts/week46/allKdm_profile.sh",
+				"/home/whh/nethome/whh/allProject/Project_scnt/scripts/week46/crissis-DEG_hyperDMR_num-1113.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/scripts/week46/methy_box.R",
+				"/home/whh/remote/allProject/scnt/data/tables/degGetter.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/scripts/week45/crisscross-changeLine-1107.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/scripts/week46/1206-dmg3ktss_fpkm3.R",
+				"/media/whh/document1/research/project_scnt/storation/scripts/featDMR.R",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/tmp.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_DMRgetter/01_getDMR-180331.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/03b_DMG_clusterProfiler-180405.sh",
+				"/home/whh/Downloads/GSE81233.txt",
+				"/home/whh/Downloads/SraRunTable.txt",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/01_getDMR-180401.sh",
+				"/home/whh/remote/allProject/scnt/scripts/expression/01_deg.R",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/03_DMG-180405.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/02b_DMRstats-scatters.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/untitled.R",
+				"/home/whh/nethome/whh/allProject/scnt/default/ggthemes.R",
+				"/home/whh/nethome/whh/default/Renv/ggthemes.R",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/02b_DMRstats-bars.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-180401.R",
 				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week38.txt",
-				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week29.txt",
-				"/home/whh/Downloads/cmake-3.10.1-Linux-x86_64.sh",
-				"/media/whh/document1/research/hmces/scripts/tmp.R",
-				"/home/whh/remote/allProject/hmces/record/infoScripts/dups_mappingEffiecncy-ChIPseq.sh",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/3_3-peak_filter.sh",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe_log.sh",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/cor_heat-samples.R",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/QC/GO-peakGene.sh",
-				"/home/whh/hs_err_pid18966.log",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/2_bowtie2/50bp/2xFlag_TetTKO_input-rep1.align.log",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/2_bowtie2/50bp/3xFlag_TetTKO_input-rep1.align.log",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/boxplot_repeats-input_TetTKO_allUnique-180118.pdf",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/boxplot_repeats-ZHY_TetTKO-180118.pdf",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/figures/ggridge_repeats-input_TetTKO-180118.pdf",
-				"/media/whh/document1/huihan/诗和远方/2018/Feb_HK-WithZY/personal infos.txt",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/5Mtest/2_bowtie/2xFlag_TetTKO_input-rep1.align.log",
-				"/home/whh/Documents/2windows/录取意向书-王慧菡.pdf",
-				"/home/whh/remote/allProject/hmces/scripts/boxplot-ChIP_escFeats-rpm_ave-1125.sh",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/4-peak_filter_seps-pValue1e3.ratio3.dRPKM2.sh",
-				"/home/whh/remote/allProject/hmces/data/ChIPseq/backup/macs2_nomodel_pValue1e3_m5to50.sh",
-				"/media/whh/document1/freshBlood/CS/shortcut/settings/goldendict.md",
-				"/home/whh/.goldendict/config",
-				"/media/whh/document1/freshBlood/CS/shortcut/settings/shutter.md",
-				"/home/whh/remote/allProject/Project_scnt/scripts/week45/clusterP_DEG-1107.R",
-				"/home/whh/nethome/whh/trackTool/refScripts/tssExtractor.sh",
 				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week35.txt",
-				"/home/whh/remote/allProject/Project_scnt/figures/scripts/fig3_0612.R",
-				"/home/whh/remote/trackTool/refScripts/tssExtractor.sh",
+				"/media/whh/document1/freshBlood/CS/easyComan/takin/suishou-week33.txt",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/0_scntDMR/03a_DMG_crissis-expression_meth-180405.sh",
+				"/media/whh/document1/research/project_scnt/storation/scripts/1206-dmg3ktss_fpkm3.R",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/func_07a-LOLA.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/func_07b-LOLA_spDMR.sh",
+				"/media/whh/document1/research/project_scnt/storation/scripts/1213-mef_kdmDMR-deepTools.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/infos.sh",
+				"/media/whh/document1/research/project_scnt/storation/scripts/sum/0802-DMR_constitution.R",
+				"/media/whh/document1/research/project_scnt/storation/scripts/shuffleDMR.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/all/0815-MEFsignalOnDMR_sameDMR-deepTools.sh",
+				"/home/whh/nethome/whh/allProject/scnt/data/WGBS/result/functionDMR/LOLA/enrich_table/simpleRepeats_uni/pickout.txt",
+				"/media/whh/document1/research/project_scnt/storation/scripts/sum/DMR_constitution_0723.R",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/01_getDMR-180401.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02b_DMRstats-bars.sh",
+				"/home/whh/remote/tempProject/posterDay/barplot/readMe.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/03c_splitDMRstats-BoxAndBar.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02b_DMRstats-scatters.sh",
+				"/home/whh/remote/allProject/scnt/scripts/expression/02a_repeats-ggridge.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/figures/sum0714/scripts/0815-methy_DMR_dens.sh",
+				"/home/whh/remote/default/Renv/ggthemes.R",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/func_03-ceas.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week39/ggridgeRPM-0928.R",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/03b_splitDMRstats-scatters.sh",
+				"/home/whh/remote/allProject/scnt/streams/dirtFigure/DMR_stats/scatter_DMR-gpoint_dmrSpcis_ML_deltaML-180403.pdf",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-all.sh",
+				"/home/whh/nethome/whh/allProject/scnt/scripts/DMR/func_07-LOLA.sh",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/featDMR.R",
+				"/home/whh/nethome/whh/allProject/scnt/streams/dirtFigure/DMR_stats/scatter_DMR-gpoint_dmr_length_deltaML-180403.pdf",
+				"/home/whh/nethome/whh/allProject/scnt/streams/dirtFigure/DMR_stats/scatter_DMR-gpoint_dmr_ML_paired-180403.pdf",
+				"/home/whh/remote/allProject/scnt/default/ggthemes.R",
+				"/home/whh/remote/allProject/scnt/default/drawVenn.R",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/tmp.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/README.md",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/catolog.md",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/final/3_dmrCaller.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_DMRgetter/01_getDMR-180331.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_DMRgetter/tmp.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/DMRstats_log.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/split_mannual-WGBS_mm9-newLoc.sh",
+				"/home/whh/remote/allProject/scnt/default/colors.R",
+				"/home/whh/remote/allProject/Project_G45/analysis/bar_featureMethy-180402.sh",
+				"/home/whh/remote/allProject/Project_G45/backup/cggs.bash",
+				"/home/whh/remote/allProject/Project_G45/readMe.sh",
+				"/home/whh/remote/allProject/Project_G45/backup/readMe.bash",
+				"/home/whh/remote/allProject/Project_G45/0_rawCount/READ.txt",
+				"/home/whh/remote/allProject/Project_G45/quality",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/01_getDMR-180401.R",
+				"/home/whh/remote/allProject/Project_scnt/figures/sum0714/scripts/0902-methy_all.sh",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/shuffleDMR.R",
+				"/home/whh/nethome/whh/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
+				"/home/whh/remote/allProject/kinet_18March/data/readMe.sh",
+				"/home/whh/remote/allProject/kinet_18March/data/genome/readme.sh",
+				"/home/whh/remote/allProject/kinet_18March/analysis/halfCEN_mapping.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-180401.R",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/split_mannual-WGBS_mm9.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week45/bar_featureMethy-1108.R",
+				"/home/whh/nethome/whh/allProject/kinet_18March/data/genome/regions/half_CEN.bed",
+				"/home/whh/remote/allProject/kinet_18March/data/ChIPseq/readMe.sh",
+				"/home/whh/remote/allProject/kinet_18March/data/ChIPseq/readMe_50bp.sh",
+				"/home/whh/remote/allProject/scnt/scripts/bin/bedMethCalculator.sh",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week46/supp_KDMdmrRRBS-1220.R",
+				"/home/whh/remote/allProject/Project_G45/result/dtable/repeats-mean_methylation-180402.txt",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/1111-aveOnDMR-methyC_liujiang.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_scntDMR/02_DMRstats-180401.sh",
+				"/home/whh/remote/allProject/Archive/Project_G45/0_rawCount/READ.txt",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week46/methy_box.R",
+				"/home/whh/remote/allProject/Project_scnt/scripts/week39/methy_profile-1001.sh",
+				"/home/whh/remote/allProject/Archive/Project_G45/readMe.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/readMe-2a_bismark_mm9.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/originalReadme.sh",
 				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRstats.R",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/2_bedFIlePreparation.sh",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/result/dmrExtra/kdmHyper-intersected_2ktss1k.bed",
-				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/testSCNTkd_hyper.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/DMR/dmrGetter.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe2.sh",
+				"/home/whh/remote/allProject/scnt/scripts/codEnv/out_formats.R",
+				"/home/whh/remote/allProject/Project_scnt/Readme.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/finalRead.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/readMe.sh",
+				"/home/whh/remote/allProject/scnt/scripts/DMR/0_DMRgetter/180331.sh",
+				"/home/whh/docus/www/farnorth/_posts/2018-03-31-refGenome-dataPrepared.md",
+				"/home/whh/.config/sublime-text-3/Packages/User/add_date.py",
+				"/home/whh/remote/allProject/scnt/data/WGBS/2a_bismark_readMe.sh",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/02a_methylKit.sh",
+				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRs_log.sh",
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/DMRcaller_COMPARE.sh",
+				"/home/whh/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/01a_bismark.sh",
 				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/1_dataProcess.sh",
 				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/final/3_dmrCaller.sh",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/readMe.sh",
-				"/home/whh/remote/allProject/Project_scnt/scripts/week41/GO_DEG-1017.R",
-				"/home/whh/remote/allProject/Project_scnt/scripts/ggthemes.R",
-				"/home/whh/remote/allProject/Project_scnt/tables/degGetter.R",
-				"/home/whh/remote/allProject/Project_scnt/scripts/week41/GO_DMG-1025.R",
-				"/home/whh/remote/allProject/Project_scnt/scripts/week41/1019-davidGO.R",
-				"/home/whh/backup/ubuntuPakcages.md",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/backup/deg_dmg_goBar_test.sh",
-				"/home/whh/remote/allProject/Project_scnt/tables/readme.sh",
-				"/home/whh/remote/allProject/Project_scnt/scripts/week41/methy_box.R",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/backup/0_fpkmOrg.R",
-				"/media/whh/document1/backup/装机ISO/ubuntu预装/installScripts_R.sh",
-				"/home/whh/remote/allProject/Project_scnt/RNAseq_rep/readMe_50bp_2rep.sh",
-				"/media/whh/document1/freshBlood/CS/shortcut/shell-ssh.md",
-				"/home/whh/remote/allProject/hmces/data/RNAseq/colors.R",
-				"/home/whh/remote/allProject/hmces/record/shared files.log",
-				"/home/whh/remote/allProject/hmces/scripts/peaksRNAseq/annoPeak_genesFPKM-1206.R",
-				"/home/whh/bin/loginServer",
-				"/home/whh/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/whh/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap"
+				"/home/whh/remote/allProject/Project_scnt/WGBS_new/backup/test/readMe.sh",
+				"/home/whh/remote/allProject/scnt/data/WGBS/2c_bisSNP_mm10.sh",
+				"/home/whh/remote/allProject/scnt/discuss/outline.20180314.md",
+				"/home/whh/remote/allProject/hmces/data/ChIPseq/readMe.sh",
+				"/home/whh/Documents/mm94igv/mm9_bt2.genome",
+				"/home/whh/remote/allProject/scnt/scripts/dataPrepare/03_alleles/splitSNP-RNAseq_mm9.sh",
+				"/media/whh/document1/research/epiGroup/2018/bioDatainR/readGTF.R",
+				"/media/whh/document1/research/epiGroup/2018/bioDatainR/readGTF-fungi.R",
+				"/home/whh/docus/www/farnorth/_posts/2018-03-30-R-gtf-refGenome.md",
+				"/home/whh/nethome/whh/allProject/tet/data/sampleMapping.txt",
+				"/home/whh/nethome/Shared/workshop/readMe.md"
 			],
 			"find":
 			{
@@ -501,169 +1307,170 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 186.0,
 				"where_history":
 				[
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"read",
-					"$read",
-					"read",
-					"tip5Input",
-					"featName",
-					"repName",
-					"repname",
-					"dups_180122all",
-					"dups_180117",
-					"Perl_count_read_bin_140220",
-					"3xFlag_TKO_IgG",
-					"2xFlag_TKO_IgG",
-					"/2xFlag_TKO_IgG",
-					"2_bowtie2",
-					"2xFlag",
-					"reads",
-					"repeats",
-					"dupSep",
-					"tip5Input",
-					"nohup",
-					"dcast",
-					"dups_180122",
-					"-@ 8",
-					"fastq",
-					"TetTKO_input_hues8",
-					"tip5Input",
-					"0_trim50",
-					"-rep1",
-					"$file",
-					"dups_180117",
-					"3xFlag_WT_input",
-					"repCnt_all",
-					"dups_180122",
-					"readNo",
-					"detail",
-					"sample",
-					"dups_180117",
-					"_input",
-					">0.1",
-					"RPMp1",
-					"total",
-					"dupSep",
-					"5:12",
-					"apply",
-					"all",
-					"geom_bo",
-					"boxp",
-					"repCnt_all",
+					"1000",
+					"500",
+					"250",
+					"0404",
+					"250",
+					"geom_box",
+					"\"/nethome",
+					"SI_dt",
+					"Sctrl_I_fc",
+					"scripts",
+					"kd_hyperDMG_downDEG",
+					"result/functionDMR/genesOnDMR/shuffleDMR_kd_gt_ctrl.2ktss1k_180405.bed",
+					"result",
+					"functionDMR",
+					"intersectBed",
+					"-g",
+					"chrom",
+					"shuffleBed",
+					"$",
+					"RNAseq_rep",
+					"../",
+					", ",
+					"geneNum",
+					"geneNum[$11]++;",
+					"geneNum[$11]++",
+					"(geneNum[$11]<=1)",
+					"intersectBed",
+					"!(",
+					"allProject",
+					"OFS",
+					"DMR_kd_gt_ctrl",
+					"DMG_",
+					"allDMG_DMR_0710",
+					"cluster",
+					"enhancerRegion_uni",
+					"dmrName",
+					"\nlocResults",
+					"OUTLOC",
+					"outLoc",
+					"DMR_",
+					"dmrSet_in_univ",
+					"dmr",
+					"dmrfilename",
+					"userSet",
+					"dmr",
+					"dmrfile",
+					"dmrfilename",
+					"filename",
+					"\"/",
+					"gr1",
+					"ennhancerRegion_uni",
+					"\"*\"",
+					"\"NA\"",
+					"methdiff",
+					"chr,i.start",
+					"i.start",
+					"start",
+					" -(dmr:",
+					"DMR_ivf_lt_ctrl",
+					"\"D",
+					"\"/",
+					"paste0",
+					"readBed",
+					"paste0",
+					"user",
+					"bedLoc",
+					"result/functionDMR/LOLA/liftDMRs",
+					"~/trackTool/liftOver/",
+					"received",
+					"write.table",
+					"unMapped",
+					"$ctrl_hypo ",
+					"ctrl_hypo",
+					"gdt_sample",
+					"+",
+					"lt",
+					"gt",
+					"\"gt\",",
+					"20000",
+					"10",
+					"gdt_sample",
+					"85",
+					"0.55",
+					"20000,",
+					"_ML",
+					"0",
+					"0.6",
+					"0.85",
+					"0.3",
+					"0.25",
+					"line",
+					"0",
+					"_gt",
 					"ggtitle",
-					"p_repNum",
-					"p_repEnrich",
-					"angle",
-					"180119",
-					"read",
-					"readper",
-					"scale",
-					"p_repNumPerc",
-					"p_repNumPerc ",
-					"sampleID",
-					"facet_wrap",
-					"dt_meanRPM",
-					"17689267",
-					"aligned exactly 1 time",
-					"aligned >1 times",
-					"rep1",
-					"5:10",
-					"3",
-					"5:10",
-					"all",
-					"2_bowtie2",
-					"3xFlag_TetTKO_input-rep1.sam",
-					"c(4,4)",
-					"5:8",
-					"file",
-					"9:12",
-					"width=9,height=9",
-					"Boxplot_Repeats_rpm",
-					"12",
-					"load",
-					"cnt",
-					"_uniq",
-					"2_bowtie2",
-					"hyTetTKO_dups",
-					"repCnt_dt_filt",
-					"BEGIN",
-					"rep1_dups",
-					"3xFlag_TetTKO_input",
-					"2xtetTKOinput:3xtetTKOinput",
-					"rep_cnt_dt",
-					"rep_cnt_all",
-					"rep_cnt_filt",
-					"rep_cnt",
-					"3xFlag_TetTKO_input-uniq",
-					"3xFlag_TetTKO_input",
-					"genomeCoverageBed",
-					"2_bowtie2",
-					"genomeCoverageBed",
-					"ibam",
-					"rep1_uniq",
-					"mm9",
-					"ibam",
-					"-ibam",
-					"ibam",
-					"sam",
-					"2_bowtie2",
-					"bedFile",
-					"scale",
-					"genomeCoverageBed",
-					"$file",
-					"perl ~/allProject/bin/Perl_count_reads_bin_140220.pl",
-					"$file",
-					"Perl_count_reads_bin_140220",
-					"dupSeps",
-					"dups",
-					" $file",
-					"file",
-					"&",
-					"$1",
-					"AS:i",
-					"2_bowtie2",
-					"rep1_",
-					"awk",
-					"-m 1",
-					"-v 2",
-					"V8",
-					"-HmcesWT-rep1_uniq.cnt",
-					"-HmcesWT-rep2_uniq.cnt",
-					"data/RNAseq/result/"
+					"+ ggtitle",
+					"alpha",
+					"gpoint_dmr_ML_paired",
+					"aes",
+					"),",
+					"lt_ctrl.col, ",
+					"lt_ctrl",
+					"alpha=0.8",
+					"0.5",
+					"_overlap",
+					"ivf_",
+					": ",
+					"0.85",
+					"c(",
+					"'",
+					" = ",
+					"t_",
+					"_kd",
+					"DMR_kd_gt_overlap",
+					"dmrType",
+					"duplicated",
+					"nethome",
+					"duplicated",
+					"lt_",
+					"methdiff",
+					"length",
+					"dmr",
+					"alpha",
+					"0.65",
+					"width=18",
+					"25",
+					"alpha=0.25",
+					"ylab",
+					"xlim"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
-					"dups_180122all",
-					"2xFlag_TetTKO_IgG",
-					"read",
-					"repeat",
-					"dups_180122",
-					"dups_180117",
-					"dups_180122",
-					"_IgG",
-					"unique reads",
-					"multihits",
-					"repCnt_dt",
-					"repCnt_all",
-					"./result/",
-					"dups_180117",
+					"500",
+					"\"~/nethome",
+					"/nethome/whh/allProject/scnt/data/",
+					"result/functionDMR/LOLA/liftDMRs_mm10",
 					"",
-					"$5",
-					"$4",
-					"\\n"
+					"DMRcaller",
+					"halfCEN_bowtie",
+					"2_bowtie/150bp_halfCEN",
+					"2_bowtie/",
+					"result/meth_levels/",
+					"meth_destranded_5x/",
+					"sig_dirLoc",
+					"result/meth_destrand_5x",
+					"dmr_expandHmr/",
+					"hmr_expanded_0331",
+					"common_180331",
+					"common_0331",
+					".expd.",
+					".expand."
 				],
 				"reverse": false,
 				"show_context": true,
@@ -674,74 +1481,16 @@
 			"groups":
 			[
 				{
-					"selected": 5,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/whh/remote/allProject/hmces/logs/RNAseq.log",
+							"file": "/home/whh/.config/sublime-text-3/backup.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 618,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										618,
-										618
-									]
-								],
-								"settings":
-								{
-									"auto_name": "hmces.log",
-									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Log).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/whh/remote/allProject/hmces/logs/docus/2018-01-17-duplicated reads in ChIPseq.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 55,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										48,
-										48
-									]
-								],
-								"settings":
-								{
-									"auto_name": "2018-01-17-duplicated reads in ChIPseq.md",
-									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/readMe.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10544,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -754,66 +1503,8 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 408.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/media/whh/document1/research/hmces/scripts/ChIP/test/duplicates_all.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 23445,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										936,
-										936
-									]
-								],
-								"settings":
-								{
+									"markdonw_live_preview_last_run": 1523087837.98,
 									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 60.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/whh/remote/allProject/hmces/data/readMe.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2376,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2376,
-										2376
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
-									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -823,25 +1514,26 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/media/whh/document1/freshBlood/CS/shortcut/SublimeText3中文输入",
+							"buffer": 1,
+							"file": "/home/whh/backup/sublime-text-3/README.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1132,
+								"buffer_size": 184,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										280,
-										280
+										183,
+										183
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"markdonw_live_preview_last_run": 1523087851.52,
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -849,69 +1541,13 @@
 							},
 							"stack_index": 0,
 							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 729,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/whh/remote/allProject/Project_scnt/ChIP_SC/getSample.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8746,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1977,
-										1977
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1008.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 37.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -949,7 +1585,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,287,705,1007,1245,3000,1920",
+			"position": "0,1,0,0,0,817,419,818,454,3000,1920",
 			"project": "",
 			"replace":
 			{
@@ -976,7 +1612,7 @@
 			},
 			"select_symbol":
 			{
-				"height": 332.0,
+				"height": 398.0,
 				"last_filter": "",
 				"selected_items":
 				[
@@ -990,13 +1626,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 40,
 			"workspace_name": ""
 		}
 	],

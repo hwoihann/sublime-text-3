@@ -1,10 +1,25 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"font_face": "Ubuntu Mono",
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"FileManager",
 		"Markdown",
-		"Vintage"
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"MarkdownHighlighting",
+		"Material Monokai",
+		"Search Stack Overflow",
+		"Theme - SoDaReloaded",
+		"Tomorrow Night Italics Color Scheme",
+		"Vintage",
+		"WordCount"
 	],
-	"theme": "Material-Theme-Palenight.sublime-theme"
+	"mdpopups.sublime_user_lang_map":
+	{
+	},
+	"mdpopups.use_sublime_highlighter": true,
+	"theme": "Material-Theme.sublime-theme",
+	"word_wrap": true
 }

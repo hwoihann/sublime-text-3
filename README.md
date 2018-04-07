@@ -1,6 +1,13 @@
 # sublime-text-3
 backup~
 
+
+cp ~/docus/www/sublime-text-3$ cp ~/.config/sublime-text-3/Installed\ Packages/ ./ -r
+cp ~/docus/www/sublime-text-3$ cp ~/.config/sublime-text-3/Local ./ -r
+cp ~/docus/www/sublime-text-3$ cp ~/.config/sublime-text-3/Packages/ ./ -r 
+
+
+
 Sublime Text 的 data 文件夹路径如下：
 
  - OS X: ~/Library/Application Support/Sublime Text 3

@@ -1,4 +1,7 @@
-// These settings override both User and Default settings for the Shell-Unix-Generic syntax
 {
-    "word_wrap": true	
+	"extensions":
+	[
+		"txt"
+	],
+	"word_wrap": true
 }

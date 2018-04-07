@@ -1,0 +1,8 @@
+[
+	{"command": "googledict", "keys": ["ctrl+t"] },
+    
+    {"keys": ["ctrl+shift+f5"], "command": "add_date_time_stamp" },
+    
+	{"keys": ["ctrl+shift+q"], "command": "copy_path" }
+
+]
